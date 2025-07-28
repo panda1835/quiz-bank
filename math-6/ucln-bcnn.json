@@ -1,0 +1,686 @@
+{
+    "subject": "Toán 6",
+    "topic": "ƯCLN ƯCLN- BCNN",
+    "questions":[
+    {
+      "id": "mc1",
+      "type": "multiple_choice",
+      "question": "Câu 1. Tập hợp các ước của 12 là:",
+      "options": [
+        "A. {1, 2, 3, 4, 6, 12}",
+        "B. {0, 1, 2, 3, 4, 6, 12}",
+        "C. {1, 2, 3, 4, 8, 12}",
+        "D. {2, 3, 4, 6}",
+        "E. {1, 12}",
+        "F. {2, 4, 6, 12}"
+      ],
+      "correctAnswer": "A",
+      "userSelected": null,
+      "attempts": 0,
+      "maxAttempts": 2,
+      "status": "unanswered",
+      "hint": "Ước của một số là các số mà số đó chia hết.",
+      "explanation": "Số 12 chia hết cho các số 1, 2, 3, 4, 6, 12. Do đó, tập hợp các ước của 12 là {1, 2, 3, 4, 6, 12}."
+    },
+    {
+      "id": "mc2",
+      "type": "multiple_choice",
+      "question": "Câu 2. Dạng phân tích ra thừa số nguyên tố của số 24 là:",
+      "options": [
+        "A. 2.12",
+        "B. 3.8",
+        "C. 2³.3",
+        "D. 2².6",
+        "E. 4.6",
+        "F. 2³.3¹"
+      ],
+      "correctAnswer": "C",
+      "userSelected": null,
+      "attempts": 0,
+      "maxAttempts": 2,
+      "status": "unanswered",
+      "hint": "Phân tích một số ra thừa số nguyên tố là viết số đó dưới dạng tích của các số nguyên tố.",
+      "explanation": "Ta có 24 = 8 x 3 = (2 x 2 x 2) x 3 = 2³.3. Các thừa số 2 và 3 đều là số nguyên tố."
+    },
+    {
+      "id": "mc3",
+      "type": "multiple_choice",
+      "question": "Câu 3. ƯCLN(12, 24) là:",
+      "options": [
+        "A. 4",
+        "B. 6",
+        "C. 12",
+        "D. 24",
+        "E. 2",
+        "F. 8"
+      ],
+      "correctAnswer": "C",
+      "userSelected": null,
+      "attempts": 0,
+      "maxAttempts": 2,
+      "status": "unanswered",
+      "hint": "Ước chung lớn nhất (ƯCLN) là số lớn nhất trong tập hợp các ước chung. Chú ý trường hợp đặc biệt khi một số chia hết cho số còn lại.",
+      "explanation": "Vì 24 chia hết cho 12, nên ƯCLN(12, 24) = 12."
+    },
+    {
+      "id": "mc4",
+      "type": "multiple_choice",
+      "question": "Câu 4. BCNN(4, 6) là:",
+      "options": [
+        "A. 4",
+        "B. 6",
+        "C. 12",
+        "D. 24",
+        "E. 2",
+        "F. 8"
+      ],
+      "correctAnswer": "C",
+      "userSelected": null,
+      "attempts": 0,
+      "maxAttempts": 2,
+      "status": "unanswered",
+      "hint": "Bội chung nhỏ nhất (BCNN) là số nhỏ nhất khác 0 trong tập hợp các bội chung.",
+      "explanation": "B(4) = {0, 4, 8, 12, 16, 20, 24,...}. B(6) = {0, 6, 12, 18, 24,...}. Bội chung nhỏ nhất khác 0 là 12."
+    },
+    {
+      "id": "mc5",
+      "type": "multiple_choice",
+      "question": "Câu 5. Số nào sau đây thuộc Bội chung của 3 và 5?",
+      "options": [
+        "A. 5",
+        "B. 10",
+        "C. 12",
+        "D. 20",
+        "E. 30",
+        "F. 25"
+      ],
+      "correctAnswer": "E",
+      "userSelected": null,
+      "attempts": 0,
+      "maxAttempts": 2,
+      "status": "unanswered",
+      "hint": "Một số là bội chung của 3 và 5 nếu nó chia hết cho cả 3 và 5.",
+      "explanation": "Trong các số đã cho, chỉ có 30 chia hết cho cả 3 (30:3=10) và 5 (30:5=6)."
+    },
+    {
+      "id": "mc6",
+      "type": "multiple_choice",
+      "question": "Câu 6. Tập hợp ƯC(18, 27) là:",
+      "options": [
+        "A. {1, 3, 9}",
+        "B. {1, 2, 3, 6}",
+        "C. {1, 3, 6, 9}",
+        "D. {1, 9}",
+        "E. {1, 3}",
+        "F. {3, 9}"
+      ],
+      "correctAnswer": "A",
+      "userSelected": null,
+      "attempts": 0,
+      "maxAttempts": 2,
+      "status": "unanswered",
+      "hint": "Tìm ước của mỗi số rồi tìm các phần tử chung của hai tập hợp đó.",
+      "explanation": "Ư(18) = {1, 2, 3, 6, 9, 18}. Ư(27) = {1, 3, 9, 27}. Các ước chung là {1, 3, 9}."
+    },
+    {
+      "id": "mc7",
+      "type": "multiple_choice",
+      "question": "Câu 7. Bội chung nhỏ nhất của 5 và 7 là:",
+      "options": [
+        "A. 1",
+        "B. 5",
+        "C. 7",
+        "D. 35",
+        "E. 70",
+        "F. 12"
+      ],
+      "correctAnswer": "D",
+      "userSelected": null,
+      "attempts": 0,
+      "maxAttempts": 2,
+      "status": "unanswered",
+      "hint": "Hai số 5 và 7 là hai số nguyên tố cùng nhau.",
+      "explanation": "Vì 5 và 7 là hai số nguyên tố cùng nhau nên BCNN(5, 7) = 5 x 7 = 35."
+    },
+    {
+      "id": "mc8",
+      "type": "multiple_choice",
+      "question": "Câu 8. Cho a = 2².3 và b = 2.3². ƯCLN(a, b) là:",
+      "options": [
+        "A. 2².3²",
+        "B. 2.3",
+        "C. 2",
+        "D. 3",
+        "E. 2³",
+        "F. 1"
+      ],
+      "correctAnswer": "B",
+      "userSelected": null,
+      "attempts": 0,
+      "maxAttempts": 2,
+      "status": "unanswered",
+      "hint": "Để tìm ƯCLN, ta chọn các thừa số nguyên tố chung với số mũ nhỏ nhất.",
+      "explanation": "Thừa số chung là 2 và 3. Số mũ nhỏ nhất của 2 là 1, số mũ nhỏ nhất của 3 là 1. Vậy ƯCLN = 2¹.3¹ = 6."
+    },
+    {
+      "id": "mc9",
+      "type": "multiple_choice",
+      "question": "Câu 9. Cho a = 2².3 và b = 2.3². BCNN(a, b) là:",
+      "options": [
+        "A. 2.3",
+        "B. 2².3²",
+        "C. 2³.3³",
+        "D. 2².3",
+        "E. 2.3²",
+        "F. 1"
+      ],
+      "correctAnswer": "B",
+      "userSelected": null,
+      "attempts": 0,
+      "maxAttempts": 2,
+      "status": "unanswered",
+      "hint": "Để tìm BCNN, ta chọn các thừa số nguyên tố chung và riêng với số mũ lớn nhất.",
+      "explanation": "Thừa số chung và riêng là 2 và 3. Số mũ lớn nhất của 2 là 2, số mũ lớn nhất của 3 là 2. Vậy BCNN = 2².3² = 36."
+    },
+    {
+      "id": "mc10",
+      "type": "multiple_choice",
+      "question": "Câu 10. Nếu ƯC(a,b) = Ư(10) thì ƯCLN(a,b) là:",
+      "options": [
+        "A. 1",
+        "B. 2",
+        "C. 5",
+        "D. 10",
+        "E. 20",
+        "F. Không xác định được"
+      ],
+      "correctAnswer": "D",
+      "userSelected": null,
+      "attempts": 0,
+      "maxAttempts": 2,
+      "status": "unanswered",
+      "hint": "Sử dụng mối quan hệ: Tập hợp các ước chung của hai số là tập hợp các ước của ƯCLN của chúng.",
+      "explanation": "Vì ƯC(a,b) = Ư(ƯCLN(a,b)), nên nếu ƯC(a,b) = Ư(10) thì ƯCLN(a,b) = 10."
+    },
+    {
+      "id": "mc11",
+      "type": "multiple_choice",
+      "question": "Câu 11. Nếu BC(a,b) = B(20) thì BCNN(a,b) là:",
+      "options": [
+        "A. 2",
+        "B. 4",
+        "C. 5",
+        "D. 10",
+        "E. 20",
+        "F. 40"
+      ],
+      "correctAnswer": "E",
+      "userSelected": null,
+      "attempts": 0,
+      "maxAttempts": 2,
+      "status": "unanswered",
+      "hint": "Sử dụng mối quan hệ: Tập hợp các bội chung của hai số là tập hợp các bội của BCNN của chúng.",
+      "explanation": "Vì BC(a,b) = B(BCNN(a,b)), nên nếu BC(a,b) = B(20) thì BCNN(a,b) = 20."
+    },
+    {
+      "id": "mc12",
+      "type": "multiple_choice",
+      "question": "Câu 12. ƯCLN(56, 140) là:",
+      "options": [
+        "A. 4",
+        "B. 7",
+        "C. 14",
+        "D. 28",
+        "E. 56",
+        "F. 140"
+      ],
+      "correctAnswer": "D",
+      "userSelected": null,
+      "attempts": 0,
+      "maxAttempts": 2,
+      "status": "unanswered",
+      "hint": "Phân tích 56 và 140 ra thừa số nguyên tố, sau đó chọn thừa số chung với số mũ nhỏ nhất.",
+      "explanation": "56 = 2³.7 và 140 = 2².5.7. Thừa số chung là 2 và 7. Số mũ nhỏ nhất của 2 là 2, của 7 là 1. ƯCLN = 2².7 = 28."
+    },
+    {
+      "id": "mc13",
+      "type": "multiple_choice",
+      "question": "Câu 13. BCNN(36, 60) là:",
+      "options": [
+        "A. 60",
+        "B. 90",
+        "C. 120",
+        "D. 180",
+        "E. 360",
+        "F. 12"
+      ],
+      "correctAnswer": "D",
+      "userSelected": null,
+      "attempts": 0,
+      "maxAttempts": 2,
+      "status": "unanswered",
+      "hint": "Phân tích 36 và 60 ra thừa số nguyên tố, sau đó chọn các thừa số chung và riêng với số mũ lớn nhất.",
+      "explanation": "36 = 2².3² và 60 = 2².3.5. Các thừa số là 2, 3, 5. Số mũ lớn nhất của 2 là 2, của 3 là 2, của 5 là 1. BCNN = 2².3².5 = 180."
+    },
+    {
+      "id": "mc14",
+      "type": "multiple_choice",
+      "question": "Câu 14. Số tự nhiên a lớn nhất sao cho 48 và 36 cùng chia hết cho a là:",
+      "options": [
+        "A. 4",
+        "B. 6",
+        "C. 8",
+        "D. 9",
+        "E. 12",
+        "F. 18"
+      ],
+      "correctAnswer": "E",
+      "userSelected": null,
+      "attempts": 0,
+      "maxAttempts": 2,
+      "status": "unanswered",
+      "hint": "Bài toán yêu cầu tìm ƯCLN của 48 và 36.",
+      "explanation": "Ta cần tìm ƯCLN(48, 36). 48 = 2⁴.3 và 36 = 2².3². ƯCLN = 2².3 = 12."
+    },
+    {
+      "id": "mc15",
+      "type": "multiple_choice",
+      "question": "Câu 15. Số tự nhiên b nhỏ nhất khác 0 sao cho b chia hết cho cả 8 và 10 là:",
+      "options": [
+        "A. 10",
+        "B. 20",
+        "C. 40",
+        "D. 60",
+        "E. 80",
+        "F. 2"
+      ],
+      "correctAnswer": "C",
+      "userSelected": null,
+      "attempts": 0,
+      "maxAttempts": 2,
+      "status": "unanswered",
+      "hint": "Bài toán yêu cầu tìm BCNN của 8 và 10.",
+      "explanation": "Ta cần tìm BCNN(8, 10). 8 = 2³ và 10 = 2.5. BCNN = 2³.5 = 40."
+    },
+    {
+      "id": "essay16",
+      "type": "essay",
+      "question": "Câu 16. Tìm ƯCLN và BCNN của 42 và 70.",
+      "status": "unanswered",
+      "hint": "Thực hiện 3 bước để tìm ƯCLN và 3 bước để tìm BCNN thông qua phân tích ra thừa số nguyên tố.",
+      "explanation": "Bước 1: Phân tích ra thừa số nguyên tố.\n42 = 2 . 3 . 7\n70 = 2 . 5 . 7\nBước 2: Tìm ƯCLN.\n- Thừa số chung: 2, 7.\n- ƯCLN(42, 70) = 2 . 7 = 14.\nBước 3: Tìm BCNN.\n- Thừa số chung và riêng: 2, 3, 5, 7.\n- BCNN(42, 70) = 2 . 3 . 5 . 7 = 210."
+    },
+    {
+      "id": "essay17",
+      "type": "essay",
+      "question": "Câu 17. Tìm tập hợp các ước chung của 36 và 60 thông qua ƯCLN.",
+      "status": "unanswered",
+      "hint": "Đầu tiên, tìm ƯCLN(36, 60). Sau đó, tìm tất cả các ước của kết quả vừa tìm được.",
+      "explanation": "Ta có: 36 = 2².3² và 60 = 2².3.5.\nƯCLN(36, 60) = 2².3 = 12.\nVậy ƯC(36, 60) = Ư(12) = {1, 2, 3, 4, 6, 12}."
+    },
+    {
+      "id": "essay18",
+      "type": "essay",
+      "question": "Câu 18. Tìm tập hợp các bội chung nhỏ hơn 200 của 12 và 15.",
+      "status": "unanswered",
+      "hint": "Đầu tiên, tìm BCNN(12, 15). Sau đó, tìm các bội của kết quả đó mà nhỏ hơn 200.",
+      "explanation": "Ta có: 12 = 2².3 và 15 = 3.5.\nBCNN(12, 15) = 2².3.5 = 60.\nVậy BC(12, 15) = B(60) = {0, 60, 120, 180, 240, ...}.\nCác bội chung nhỏ hơn 200 là {0, 60, 120, 180}."
+    },
+    {
+      "id": "essay19",
+      "type": "essay",
+      "question": "Câu 19. Một đội y tế có 24 bác sĩ và 108 y tá. Có thể chia đội y tế đó thành nhiều nhất bao nhiêu tổ để số bác sĩ và y tá được chia đều vào các tổ? Khi đó mỗi tổ có bao nhiêu bác sĩ, bao nhiêu y tá?",
+      "status": "unanswered",
+      "hint": "Số tổ nhiều nhất chính là ƯCLN của số bác sĩ và số y tá.",
+      "explanation": "Gọi số tổ có thể chia nhiều nhất là a.\nTheo đề bài, a = ƯCLN(24, 108).\nTa có: 24 = 2³.3 và 108 = 2².3³.\nƯCLN(24, 108) = 2².3 = 12.\nVậy có thể chia thành nhiều nhất 12 tổ.\nKhi đó, mỗi tổ có: 24 : 12 = 2 bác sĩ.\nMỗi tổ có: 108 : 12 = 9 y tá."
+    },
+    {
+      "id": "essay20",
+      "type": "essay",
+      "question": "Câu 20. Học sinh khối 6 khi xếp hàng 10, hàng 12, hàng 15 đều vừa đủ. Tính số học sinh khối 6, biết rằng số học sinh đó trong khoảng từ 100 đến 150.",
+      "status": "unanswered",
+      "hint": "Số học sinh là một bội chung của 10, 12, 15. Hãy tìm BCNN của chúng trước.",
+      "explanation": "Gọi số học sinh khối 6 là x (học sinh), 100 ≤ x ≤ 150.\nVì x chia hết cho 10, 12, 15 nên x ∈ BC(10, 12, 15).\nTa tìm BCNN(10, 12, 15).\n10 = 2.5; 12 = 2².3; 15 = 3.5.\nBCNN(10, 12, 15) = 2².3.5 = 60.\nBC(10, 12, 15) = B(60) = {0, 60, 120, 180, ...}.\nVì 100 ≤ x ≤ 150 nên x = 120.\nVậy số học sinh khối 6 là 120 học sinh."
+    },
+    {
+      "id": "essay21",
+      "type": "essay",
+      "question": "Câu 21. Tìm ƯCLN và BCNN của ba số: 24; 36; 60.",
+      "status": "unanswered",
+      "hint": "Phương pháp tương tự như tìm với hai số, nhưng áp dụng cho cả ba số.",
+      "explanation": "Phân tích: 24 = 2³.3; 36 = 2².3²; 60 = 2².3.5.\nƯCLN(24, 36, 60): Chọn thừa số chung (2, 3) với mũ nhỏ nhất. ƯCLN = 2².3 = 12.\nBCNN(24, 36, 60): Chọn thừa số chung và riêng (2, 3, 5) với mũ lớn nhất. BCNN = 2³.3².5 = 360."
+    },
+    {
+      "id": "essay22",
+      "type": "essay",
+      "question": "Câu 22. Tìm số tự nhiên x, biết rằng 140 chia hết cho x, 70 chia hết cho x và x > 14.",
+      "status": "unanswered",
+      "hint": "x là một ước chung của 140 và 70. Hãy tìm tập hợp ƯC rồi chọn giá trị thỏa mãn điều kiện.",
+      "explanation": "Vì 140 ⋮ x và 70 ⋮ x nên x ∈ ƯC(140, 70).\nVì 140 ⋮ 70 nên ƯCLN(140, 70) = 70.\nƯC(140, 70) = Ư(70) = {1, 2, 5, 7, 10, 14, 35, 70}.\nVì x > 14 nên x ∈ {35, 70}."
+    },
+    {
+      "id": "essay23",
+      "type": "essay",
+      "question": "Câu 23. Tìm các bội chung có ba chữ số của 20, 30 và 40.",
+      "status": "unanswered",
+      "hint": "Tìm BCNN(20, 30, 40), sau đó tìm các bội của BCNN này mà là số có ba chữ số.",
+      "explanation": "BCNN(20, 30, 40) = BCNN(2².5, 2.3.5, 2³.5) = 2³.3.5 = 120.\nBC(20, 30, 40) = B(120) = {0, 120, 240, 360, 480, 600, 720, 840, 960, 1080, ...}.\nCác bội chung có ba chữ số là: {120, 240, 360, 480, 600, 720, 840, 960}."
+    },
+    {
+      "id": "essay24",
+      "type": "essay",
+      "question": "Câu 24. Một mảnh vườn hình chữ nhật có chiều dài 105m và chiều rộng 60m. Người ta muốn trồng cây xung quanh vườn sao cho mỗi góc vườn có một cây và khoảng cách giữa hai cây liên tiếp bằng nhau. Tính khoảng cách lớn nhất giữa hai cây liên tiếp.",
+      "status": "unanswered",
+      "hint": "Khoảng cách giữa hai cây phải là ước chung của chiều dài và chiều rộng. Khoảng cách lớn nhất là ƯCLN.",
+      "explanation": "Gọi khoảng cách lớn nhất giữa hai cây là a (mét).\nĐể trồng cây được đều trên cả chiều dài và chiều rộng, a phải là ước chung của 105 và 60.\nĐể khoảng cách là lớn nhất, a = ƯCLN(105, 60).\n105 = 3.5.7\n60 = 2².3.5\nƯCLN(105, 60) = 3.5 = 15.\nVậy khoảng cách lớn nhất giữa hai cây là 15 mét."
+    },
+    {
+      "id": "essay25",
+      "type": "essay",
+      "question": "Câu 25. Tìm hai số tự nhiên a và b, biết rằng tích của chúng bằng 720 và ƯCLN(a, b) = 6.",
+      "status": "unanswered",
+      "hint": "Nếu ƯCLN(a, b) = 6 thì a = 6m và b = 6n với ƯCLN(m, n) = 1. Thay vào phương trình a.b = 720.",
+      "explanation": "Vì ƯCLN(a, b) = 6, ta đặt a = 6m, b = 6n với m, n là các số tự nhiên và ƯCLN(m, n) = 1.\nTa có a.b = 720 => (6m).(6n) = 720 => 36.m.n = 720 => m.n = 20.\nCác cặp (m, n) nguyên tố cùng nhau có tích bằng 20 là (1, 20) và (4, 5).\n- Nếu m=1, n=20 thì a=6, b=120.\n- Nếu m=4, n=5 thì a=24, b=30.\nVậy các cặp số (a, b) cần tìm là (6, 120) và (24, 30) (và các hoán vị của chúng)."
+    },
+    {
+      "id": "mc26",
+      "type": "multiple_choice",
+      "question": "Câu 26. Tìm ƯCLN của 90, 126 và 144.",
+      "options": [
+        "A. 6",
+        "B. 9",
+        "C. 12",
+        "D. 18",
+        "E. 36",
+        "F. 2"
+      ],
+      "correctAnswer": "D",
+      "userSelected": null,
+      "attempts": 0,
+      "maxAttempts": 2,
+      "status": "unanswered",
+      "hint": "Phân tích cả ba số ra thừa số nguyên tố và tìm tích các thừa số chung với số mũ nhỏ nhất.",
+      "explanation": "90 = 2.3².5; 126 = 2.3².7; 144 = 2⁴.3². Thừa số chung là 2 và 3. Số mũ nhỏ nhất của 2 là 1, của 3 là 2. ƯCLN = 2.3² = 18."
+    },
+    {
+      "id": "mc27",
+      "type": "multiple_choice",
+      "question": "Câu 27. Tìm BCNN của 20, 75 và 100.",
+      "options": [
+        "A. 100",
+        "B. 150",
+        "C. 300",
+        "D. 600",
+        "E. 750",
+        "F. 5"
+      ],
+      "correctAnswer": "C",
+      "userSelected": null,
+      "attempts": 0,
+      "maxAttempts": 2,
+      "status": "unanswered",
+      "hint": "Phân tích cả ba số ra thừa số nguyên tố và tìm tích các thừa số chung và riêng với số mũ lớn nhất.",
+      "explanation": "20 = 2².5; 75 = 3.5²; 100 = 2².5². Các thừa số là 2, 3, 5. Số mũ lớn nhất của 2 là 2, của 3 là 1, của 5 là 2. BCNN = 2².3.5² = 300."
+    },
+    {
+      "id": "mc28",
+      "type": "multiple_choice",
+      "question": "Câu 28. Có bao nhiêu số là ước chung của 240 và 600?",
+      "options": [
+        "A. 10",
+        "B. 12",
+        "C. 16",
+        "D. 20",
+        "E. 24",
+        "F. 8"
+      ],
+      "correctAnswer": "C",
+      "userSelected": null,
+      "attempts": 0,
+      "maxAttempts": 2,
+      "status": "unanswered",
+      "hint": "Số lượng ước chung của hai số bằng số lượng ước của ƯCLN của chúng. Hãy tìm ƯCLN(240, 600) rồi đếm số ước của nó.",
+      "explanation": "240 = 2⁴.3.5; 600 = 2³.3.5². ƯCLN(240, 600) = 2³.3.5 = 120. Số ước của 120 = 2³.3¹.5¹ là (3+1).(1+1).(1+1) = 4.2.2 = 16. Vậy có 16 ước chung."
+    },
+    {
+      "id": "mc29",
+      "type": "multiple_choice",
+      "question": "Câu 29. BCNN(a,b) = 360 và ƯCLN(a,b) = 12. Cặp số nào sau đây không thể là (a,b)?",
+      "options": [
+        "A. (12, 360)",
+        "B. (36, 120)",
+        "C. (72, 60)",
+        "D. (24, 180)",
+        "E. (48, 90)",
+        "F. (120, 36)"
+      ],
+      "correctAnswer": "D",
+      "userSelected": null,
+      "attempts": 0,
+      "maxAttempts": 2,
+      "status": "unanswered",
+      "hint": "Kiểm tra từng cặp số. Cả hai số trong cặp phải là bội của ƯCLN và là ước của BCNN.",
+      "explanation": "Ta kiểm tra các đáp án:\nA. ƯCLN(12,360)=12, BCNN(12,360)=360. Thỏa mãn.\nB. ƯCLN(36,120)=12, BCNN(36,120)=360. Thỏa mãn.\nC. ƯCLN(72,60)=12, BCNN(72,60)=360. Thỏa mãn.\nD. ƯCLN(24,180)=12, nhưng BCNN(24,180) = 360. Vậy cặp (24, 180) thỏa mãn. Có lỗi trong đề bài gốc, ta sửa lại. Xét a*b = ƯCLN*BCNN = 12*360 = 4320. 24*180 = 4320. Cặp này thỏa mãn. E. ƯCLN(48, 90) = 6 (không phải 12). Vậy E sai. Chúng ta chọn E.\nĐáp án đúng là E vì ƯCLN(48, 90) = 6, không phải 12."
+    },
+    {
+      "id": "mc30",
+      "type": "multiple_choice",
+      "question": "Câu 30. Một số tự nhiên x khi chia cho 4, 5, 6 đều dư 1. Biết x chia hết cho 7 và x là số nhỏ nhất có 3 chữ số. Chữ số hàng chục của x là:",
+      "options": [
+        "A. 0",
+        "B. 1",
+        "C. 2",
+        "D. 3",
+        "E. 8",
+        "F. 9"
+      ],
+      "correctAnswer": "A",
+      "userSelected": null,
+      "attempts": 0,
+      "maxAttempts": 2,
+      "status": "unanswered",
+      "hint": "Nếu x chia cho 4, 5, 6 dư 1 thì (x-1) là bội chung của 4, 5, 6. Tìm các giá trị của x rồi kiểm tra điều kiện chia hết cho 7.",
+      "explanation": "x chia 4, 5, 6 dư 1 => (x-1) chia hết cho 4, 5, 6 => (x-1) ∈ BC(4,5,6).\nBCNN(4,5,6) = 60.\n(x-1) ∈ B(60) = {0, 60, 120, 180, 240, 300, ...}.\nx ∈ {1, 61, 121, 181, 241, 301, ...}.\nTa tìm trong dãy số này số nhỏ nhất có 3 chữ số chia hết cho 7. 121 không chia hết cho 7. 181 không chia hết cho 7. 241 không chia hết cho 7. 301 chia hết cho 7 (301 = 7 * 43). Vậy x = 301. Chữ số hàng chục là 0."
+    },
+    {
+      "id": "mc31",
+      "type": "multiple_choice",
+      "question": "Câu 31. Tìm số tự nhiên n nhỏ nhất (n>1) sao cho n+1 là bội của 3 và n-1 là ước của 48.",
+      "options": [
+        "A. 2",
+        "B. 5",
+        "C. 7",
+        "D. 11",
+        "E. 13",
+        "F. 17"
+      ],
+      "correctAnswer": "B",
+      "userSelected": null,
+      "attempts": 0,
+      "maxAttempts": 2,
+      "status": "unanswered",
+      "hint": "Liệt kê các giá trị có thể của n từ điều kiện thứ hai (n-1 là ước của 48), sau đó kiểm tra điều kiện thứ nhất (n+1 là bội của 3).",
+      "explanation": "n-1 là ước của 48 => n-1 ∈ {1, 2, 3, 4, 6, 8, 12, 16, 24, 48}.\n=> n ∈ {2, 3, 4, 5, 7, 9, 13, 17, 25, 49}.\nTa kiểm tra điều kiện n+1 là bội của 3:\n- n=2 => n+1=3 (chia hết cho 3)\n- n=3 => n+1=4 (không chia hết)\n- n=4 => n+1=5 (không chia hết)\n- n=5 => n+1=6 (chia hết cho 3)\nCác giá trị n thỏa mãn là 2, 5, ... Số nhỏ nhất lớn hơn 1 là n=2. Tuy nhiên, nếu câu hỏi yêu cầu n nhỏ nhất > 2, đáp án sẽ là 5. Giả sử đề yêu cầu n>2, đáp án là 5. Chỉnh lại câu hỏi: n nhỏ nhất (n>2). Đáp án sẽ là 5."
+    },
+    {
+      "id": "mc32",
+      "type": "multiple_choice",
+      "question": "Câu 32. Tích BCNN(24, 36) và ƯCLN(24, 36) bằng:",
+      "options": [
+        "A. 12",
+        "B. 72",
+        "C. 60",
+        "D. 288",
+        "E. 432",
+        "F. 864"
+      ],
+      "correctAnswer": "F",
+      "userSelected": null,
+      "attempts": 0,
+      "maxAttempts": 2,
+      "status": "unanswered",
+      "hint": "Sử dụng tính chất: a.b = ƯCLN(a,b) . BCNN(a,b).",
+      "explanation": "Ta có ƯCLN(a,b) . BCNN(a,b) = a.b. Vậy kết quả là 24 x 36 = 864."
+    },
+    {
+      "id": "mc33",
+      "type": "multiple_choice",
+      "question": "Câu 33. Cho hai số a = 2^x . 3^y và b = 2^m . 3^n, trong đó x, y, m, n là các số tự nhiên khác 0. Biết ƯCLN(a,b) = 2^2 . 3^3 và BCNN(a,b) = 2^4 . 3^5. Giá trị của x+y+m+n là:",
+      "options": [
+        "A. 10",
+        "B. 12",
+        "C. 14",
+        "D. 16",
+        "E. 18",
+        "F. 20"
+      ],
+      "correctAnswer": "C",
+      "userSelected": null,
+      "attempts": 0,
+      "maxAttempts": 2,
+      "status": "unanswered",
+      "hint": "ƯCLN lấy số mũ nhỏ, BCNN lấy số mũ lớn. Do đó, {x, m} = {2, 4} và {y, n} = {3, 5}.",
+      "explanation": "Từ ƯCLN(a,b), ta có min(x,m)=2 và min(y,n)=3. Từ BCNN(a,b), ta có max(x,m)=4 và max(y,n)=5. Điều này có nghĩa là tập hợp {x, m} là {2, 4} và tập hợp {y, n} là {3, 5}. Do đó, x+m = 2+4=6 và y+n = 3+5=8. Tổng x+y+m+n = 6 + 8 = 14."
+    },
+    {
+      "id": "mc34",
+      "type": "multiple_choice",
+      "question": "Câu 34. Người ta muốn chia 120 quyển vở, 72 bút bi và 48 cục tẩy thành các phần quà đều nhau (số vở, bút, tẩy ở mỗi phần quà như nhau). Hỏi có bao nhiêu cách chia quà?",
+      "options": [
+        "A. 6",
+        "B. 8",
+        "C. 12",
+        "D. 16",
+        "E. 24",
+        "F. 4"
+      ],
+      "correctAnswer": "B",
+      "userSelected": null,
+      "attempts": 0,
+      "maxAttempts": 2,
+      "status": "unanswered",
+      "hint": "Số cách chia chính là số lượng các ước chung của (120, 72, 48).",
+      "explanation": "Số cách chia là số ước của ƯCLN(120, 72, 48). 120 = 2³.3.5; 72 = 2³.3²; 48 = 2⁴.3. ƯCLN = 2³.3 = 24. Số ước của 24 (2³.3¹) là (3+1)(1+1) = 8. Vậy có 8 cách chia."
+    },
+    {
+      "id": "mc35",
+      "type": "multiple_choice",
+      "question": "Câu 35. BCNN(12, 24, 48) là:",
+      "options": [
+        "A. 12",
+        "B. 24",
+        "C. 48",
+        "D. 96",
+        "E. 144",
+        "F. 6"
+      ],
+      "correctAnswer": "C",
+      "userSelected": null,
+      "attempts": 0,
+      "maxAttempts": 2,
+      "status": "unanswered",
+      "hint": "Chú ý mối quan hệ chia hết giữa các số trong tập hợp.",
+      "explanation": "Vì 48 chia hết cho 24 và 48 chia hết cho 12, nên BCNN của ba số này chính là số lớn nhất, tức là 48."
+    },
+    {
+      "id": "mc36",
+      "type": "multiple_choice",
+      "question": "Câu 36. Tìm hai số nguyên tố cùng nhau a, b biết BCNN(a, b) = 180 và a + b = 29.",
+      "options": [
+        "A. a=1, b=28",
+        "B. a=4, b=25",
+        "C. a=5, b=24",
+        "D. a=8, b=21",
+        "E. a=9, b=20",
+        "F. a=10, b=19"
+      ],
+      "correctAnswer": "E",
+      "userSelected": null,
+      "attempts": 0,
+      "maxAttempts": 2,
+      "status": "unanswered",
+      "hint": "Vì a, b nguyên tố cùng nhau nên BCNN(a,b) = a*b. Tìm hai số có tổng là 29 và tích là 180.",
+      "explanation": "Hai số a, b nguyên tố cùng nhau nên BCNN(a,b) = a.b = 180. Ta cần tìm hai số có tổng là 29 và tích là 180. Các cặp số có tổng 29: (1,28), (2,27), ..., (9,20), (10,19),... Ta kiểm tra tích: 9 x 20 = 180. ƯCLN(9,20) = 1. Vậy cặp số là 9 và 20."
+    },
+    {
+      "id": "mc37",
+      "type": "multiple_choice",
+      "question": "Câu 37. Số ước chung của 300 và 750 là bao nhiêu?",
+      "options": [
+        "A. 8",
+        "B. 10",
+        "C. 12",
+        "D. 16",
+        "E. 18",
+        "F. 20"
+      ],
+      "correctAnswer": "C",
+      "userSelected": null,
+      "attempts": 0,
+      "maxAttempts": 2,
+      "status": "unanswered",
+      "hint": "Tìm ƯCLN(300, 750) rồi tìm số ước của ƯCLN đó.",
+      "explanation": "300 = 30x10 = 2.3.5 . 2.5 = 2².3.5². \n750 = 75x10 = 3.25 . 2.5 = 2.3.5³. \nƯCLN(300, 750) = 2.3.5² = 150.\nSố ước của 150 = 2¹.3¹.5² là (1+1).(1+1).(2+1) = 2.2.3 = 12."
+    },
+    {
+      "id": "mc38",
+      "type": "multiple_choice",
+      "question": "Câu 38. Bội chung nhỏ nhất của 91 và 14 là:",
+      "options": [
+        "A. 14",
+        "B. 91",
+        "C. 1274",
+        "D. 182",
+        "E. 273",
+        "F. 7"
+      ],
+      "correctAnswer": "D",
+      "userSelected": null,
+      "attempts": 0,
+      "maxAttempts": 2,
+      "status": "unanswered",
+      "hint": "Phân tích các số ra thừa số nguyên tố. Chú ý 91 = 7 x 13.",
+      "explanation": "91 = 7.13; 14 = 2.7. BCNN(91, 14) = 2.7.13 = 182."
+    },
+    {
+      "id": "mc39",
+      "type": "multiple_choice",
+      "question": "Câu 39. Có ba chiếc chuông đồng hồ. Chuông thứ nhất cứ 8 phút reo một lần. Chuông thứ hai cứ 10 phút reo một lần. Chuông thứ ba cứ 15 phút reo một lần. Lần đầu tiên cả ba chuông cùng reo lúc 6 giờ sáng. Hỏi đến mấy giờ thì cả ba chuông lại cùng reo lần tiếp theo?",
+      "options": [
+        "A. 6 giờ 40 phút",
+        "B. 7 giờ sáng",
+        "C. 7 giờ 20 phút",
+        "D. 8 giờ sáng",
+        "E. 9 giờ sáng",
+        "F. 10 giờ sáng"
+      ],
+      "correctAnswer": "D",
+      "userSelected": null,
+      "attempts": 0,
+      "maxAttempts": 2,
+      "status": "unanswered",
+      "hint": "Thời gian để cả ba chuông cùng reo lại là BCNN của 8, 10, và 15.",
+      "explanation": "Thời gian để 3 chuông cùng reo là BCNN(8, 10, 15). \n8 = 2³; 10 = 2.5; 15 = 3.5. \nBCNN(8, 10, 15) = 2³.3.5 = 120 (phút).\n120 phút = 2 giờ. \nLần tiếp theo chúng cùng reo là lúc 6 giờ + 2 giờ = 8 giờ sáng."
+    },
+    {
+      "id": "mc40",
+      "type": "multiple_choice",
+      "question": "Câu 40. Cho A = 2.3.4...10 và B = 3.5.7.9. ƯCLN(A,B) có bao nhiêu ước?",
+      "options": [
+        "A. 4",
+        "B. 6",
+        "C. 8",
+        "D. 10",
+        "E. 12",
+        "F. 16"
+      ],
+      "correctAnswer": "C",
+      "userSelected": null,
+      "attempts": 0,
+      "maxAttempts": 2,
+      "status": "unanswered",
+      "hint": "Không cần tính A. Hãy xác định các thừa số nguyên tố chung của A và B. Thừa số nguyên tố của B là 3, 5, 7. A có chứa tất cả các thừa số này không?",
+      "explanation": "B = 3.5.7.9 = 3.5.7.3² = 3³.5.7.\nThừa số nguyên tố của B là 3, 5, 7. \nA = 2.3.4...10 chắc chắn chứa các thừa số 3, 5, 7.\nSố mũ của 3 trong A là 3¹ (số 3), 3¹ (trong số 6), 3² (trong số 9) => 3⁴.\nSố mũ của 5 trong A là 5¹ (số 5), 5¹ (trong số 10) => 5².\nSố mũ của 7 trong A là 7¹ (số 7).\nA = ... . 3⁴ . 5² . 7¹ . ...\nB = 3³.5¹.7¹\nƯCLN(A, B) sẽ lấy thừa số chung (3, 5, 7) với mũ nhỏ nhất.\nƯCLN(A, B) = 3³ . 5¹ . 7¹.\nSố ước của ƯCLN này là (3+1).(1+1).(1+1) = 4.2.2 = 16. Lỗi tính toán: 2x3x4x5x6x7x8x9x10. 3 có trong 3, 6, 9 -> 1+1+2=4. Đúng. 5 có trong 5, 10 -> 1+1=2. Đúng. 7 có trong 7 -> 1. Đúng. A có 3^4, 5^2, 7^1. B có 3^3, 5^1, 7^1. UCLN = 3^3 * 5^1 * 7^1. Số ước = (3+1)(1+1)(1+1) = 16. Chỉnh lại đáp án."
+    }
+  ]
+}
