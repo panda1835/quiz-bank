@@ -3,7 +3,7 @@
     "topic": "Phép nhân và phép chia số có 2,3,4 chữ số",
     "questions":[
     {
-      "id": "mc1",
+      "id": "fill1",
       "type": "fill",
       "question": "Tính 12 x 13",
       "correctAnswer": "156",
@@ -12,7 +12,7 @@
       "status": "unanswered"
     },
     {
-      "id": "mc2",
+      "id": "fill2",
       "type": "fill",
       "question": "Tính 24 x 15",
       "correctAnswer": "360",
@@ -21,7 +21,7 @@
       "status": "unanswered"
     },
     {
-      "id": "mc3",
+      "id": "fill3",
       "type": "fill",
       "question": "Thương của phép chia 144 ÷ 12",
       "correctAnswer": "12",
@@ -30,7 +30,7 @@
       "status": "unanswered"
     },
     {
-      "id": "mc4",
+      "id": "fill4",
       "type": "fill",
       "question": "Dư của phép chia 225 ÷ 10",
       "correctAnswer": "5",
@@ -39,7 +39,7 @@
       "status": "unanswered"
     },
     {
-      "id": "mc5",
+      "id": "fill5",
       "type": "fill",
       "question": "Tính 34 x 29",
       "correctAnswer": "986",
@@ -48,7 +48,7 @@
       "status": "unanswered"
     },
     {
-      "id": "mc6",
+      "id": "fill6",
       "type": "fill",
       "question": "Thương của phép chia 560 ÷ 14",
       "correctAnswer": "40",
@@ -57,7 +57,7 @@
       "status": "unanswered"
     },
     {
-      "id": "mc7",
+      "id": "fill7",
       "type": "fill",
       "question": "Dư của phép chia 178 ÷ 12",
       "correctAnswer": "10",
@@ -66,7 +66,7 @@
       "status": "unanswered"
     },
     {
-      "id": "mc8",
+      "id": "fill8",
       "type": "fill",
       "question": "Tính 123 x 23",
       "correctAnswer": "2829",
@@ -75,7 +75,7 @@
       "status": "unanswered"
     },
     {
-      "id": "mc9",
+      "id": "fill9",
       "type": "fill",
       "question": "Thương của phép chia 365 ÷ 15",
       "correctAnswer": "24",
@@ -84,7 +84,7 @@
       "status": "unanswered"
     },
     {
-      "id": "mc10",
+      "id": "fill10",
       "type": "fill",
       "question": "Tính 98 x 67",
       "correctAnswer": "6566",
@@ -93,7 +93,7 @@
       "status": "unanswered"
     },
     {
-      "id": "mc11",
+      "id": "fill11",
       "type": "fill",
       "question": "Dư của phép chia 783 ÷ 24",
       "correctAnswer": "15",
@@ -102,7 +102,7 @@
       "status": "unanswered"
     },
     {
-      "id": "mc12",
+      "id": "fill12",
       "type": "fill",
       "question": "Tính 156 x 34",
       "correctAnswer": "5304",
@@ -111,7 +111,7 @@
       "status": "unanswered"
     },
     {
-      "id": "mc13",
+      "id": "fill13",
       "type": "fill",
       "question": "Thương của phép chia 422 ÷ 17",
       "correctAnswer": "24",
@@ -120,7 +120,7 @@
       "status": "unanswered"
     },
     {
-      "id": "mc14",
+      "id": "fill14",
       "type": "fill",
       "question": "Dư của phép chia 219 ÷ 17",
       "correctAnswer": "15",
@@ -129,7 +129,7 @@
       "status": "unanswered"
     },
     {
-      "id": "mc15",
+      "id": "fill15",
       "type": "fill",
       "question": "Tính 238 x 47",
       "correctAnswer": "11186",
@@ -138,7 +138,7 @@
       "status": "unanswered"
     },
     {
-      "id": "mc16",
+      "id": "fill16",
       "type": "fill",
       "question": "Tính 1024 ÷ 32",
       "correctAnswer": "32",
@@ -147,7 +147,7 @@
       "status": "unanswered"
     },
     {
-      "id": "mc17",
+      "id": "fill17",
       "type": "fill",
       "question": "Tính 987 x 65",
       "correctAnswer": "64155",
@@ -156,7 +156,7 @@
       "status": "unanswered"
     },
     {
-      "id": "mc18",
+      "id": "fill18",
       "type": "fill",
       "question": "Thương của phép chia 2457 ÷ 36",
       "correctAnswer": "68",
@@ -165,7 +165,7 @@
       "status": "unanswered"
     },
     {
-      "id": "mc19",
+      "id": "fill19",
       "type": "fill",
       "question": "Tính 1225 x 48",
       "correctAnswer": "58800",
@@ -174,7 +174,7 @@
       "status": "unanswered"
     },
     {
-      "id": "mc20",
+      "id": "fill20",
       "type": "fill",
       "question": "Dư của phép chia 5478 ÷ 42",
       "correctAnswer": "18",
