@@ -1,0 +1,186 @@
+{
+    "subject": "Toán 5",
+    "topic": "Phép nhân và phép chia số có 2,3,4 chữ số",
+    "questions":[
+  {
+    "id": "fill1",
+    "type": "fill",
+    "question": "Câu 1. Tính: 234 × 456 = ?",
+    "correctAnswer": "106704",
+    "attempts": 0,
+    "maxAttempts": 1000,
+    "status": "unanswered"
+  },
+  {
+    "id": "fill2",
+    "type": "fill",
+    "question": "Câu 2. Tính: 1234 × 87 = ?",
+    "correctAnswer": "107358",
+    "attempts": 0,
+    "maxAttempts": 1000,
+    "status": "unanswered"
+  },
+  {
+    "id": "fill3",
+    "type": "fill",
+    "question": "Câu 3. Tính: 312 × 789 = ?",
+    "correctAnswer": "246168",
+    "attempts": 0,
+    "maxAttempts": 1000,
+    "status": "unanswered"
+  },
+  {
+    "id": "fill4",
+    "type": "fill",
+    "question": "Câu 4. Tính: 4021 × 123 = ?",
+    "correctAnswer": "494583",
+    "attempts": 0,
+    "maxAttempts": 1000,
+    "status": "unanswered"
+  },
+  {
+    "id": "fill5",
+    "type": "fill",
+    "question": "Câu 5. Tính: 781 × 654 = ?",
+    "correctAnswer": "510474",
+    "attempts": 0,
+    "maxAttempts": 1000,
+    "status": "unanswered"
+  },
+  {
+    "id": "fill6",
+    "type": "fill",
+    "question": "Câu 6. Tính: 3920 × 89 = ?",
+    "correctAnswer": "348880",
+    "attempts": 0,
+    "maxAttempts": 1000,
+    "status": "unanswered"
+  },
+  {
+    "id": "fill7",
+    "type": "fill",
+    "question": "Câu 7. Tính: 1345 × 342 = ?",
+    "correctAnswer": "459990",
+    "attempts": 0,
+    "maxAttempts": 1000,
+    "status": "unanswered"
+  },
+  {
+    "id": "fill8",
+    "type": "fill",
+    "question": "Câu 8. Tính: 983 × 236 = ?",
+    "correctAnswer": "231988",
+    "attempts": 0,
+    "maxAttempts": 1000,
+    "status": "unanswered"
+  },
+  {
+    "id": "fill9",
+    "type": "fill",
+    "question": "Câu 9. Tính: 2712 × 765 = ?",
+    "correctAnswer": "2076780",
+    "attempts": 0,
+    "maxAttempts": 1000,
+    "status": "unanswered"
+  },
+  {
+    "id": "fill10",
+    "type": "fill",
+    "question": "Câu 10. Tính: 4123 × 98 = ?",
+    "correctAnswer": "404054",
+    "attempts": 0,
+    "maxAttempts": 1000,
+    "status": "unanswered"
+  },
+  {
+    "id": "fill11",
+    "type": "fill",
+    "question": "Câu 11. Thương của phép chia 9482 chia 37 là bao nhiêu?",
+    "correctAnswer": "256",
+    "attempts": 0,
+    "maxAttempts": 1000,
+    "status": "unanswered"
+  },
+  {
+    "id": "fill12",
+    "type": "fill",
+    "question": "Câu 12. Dư của phép chia 7256 chia 45 là bao nhiêu?",
+    "correctAnswer": "11",
+    "attempts": 0,
+    "maxAttempts": 1000,
+    "status": "unanswered"
+  },
+  {
+    "id": "fill13",
+    "type": "fill",
+    "question": "Câu 13. Thương của phép chia 8921 chia 29 là bao nhiêu?",
+    "correctAnswer": "307",
+    "attempts": 0,
+    "maxAttempts": 1000,
+    "status": "unanswered"
+  },
+  {
+    "id": "fill14",
+    "type": "fill",
+    "question": "Câu 14. Dư của phép chia 5678 chia 34 là bao nhiêu?",
+    "correctAnswer": "22",
+    "attempts": 0,
+    "maxAttempts": 1000,
+    "status": "unanswered"
+  },
+  {
+    "id": "fill15",
+    "type": "fill",
+    "question": "Câu 15. Thương của phép chia 6304 chia 32 là bao nhiêu?",
+    "correctAnswer": "197",
+    "attempts": 0,
+    "maxAttempts": 1000,
+    "status": "unanswered"
+  },
+  {
+    "id": "fill16",
+    "type": "fill",
+    "question": "Câu 16. Dư của phép chia 4023 chia 28 là bao nhiêu?",
+    "correctAnswer": "27",
+    "attempts": 0,
+    "maxAttempts": 1000,
+    "status": "unanswered"
+  },
+  {
+    "id": "fill17",
+    "type": "fill",
+    "question": "Câu 17. Thương của phép chia 7890 chia 35 là bao nhiêu?",
+    "correctAnswer": "225",
+    "attempts": 0,
+    "maxAttempts": 1000,
+    "status": "unanswered"
+  },
+  {
+    "id": "fill18",
+    "type": "fill",
+    "question": "Câu 18. Dư của phép chia 9451 chia 48 là bao nhiêu?",
+    "correctAnswer": "43",
+    "attempts": 0,
+    "maxAttempts": 1000,
+    "status": "unanswered"
+  },
+  {
+    "id": "fill19",
+    "type": "fill",
+    "question": "Câu 19. Thương của phép chia 8020 chia 25 là bao nhiêu?",
+    "correctAnswer": "320",
+    "attempts": 0,
+    "maxAttempts": 1000,
+    "status": "unanswered"
+  },
+  {
+    "id": "fill20",
+    "type": "fill",
+    "question": "Câu 20. Dư của phép chia 6342 chia 31 là bao nhiêu?",
+    "correctAnswer": "12",
+    "attempts": 0,
+    "maxAttempts": 1000,
+    "status": "unanswered"
+  }
+]
+}
