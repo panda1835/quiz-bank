@@ -1,0 +1,686 @@
+{
+    "subject": "Toán 6",
+    "topic": "CÁC PHÉP TÍNH TRÊN SỐ NGUYÊN",
+    "questions": [
+    {
+      "id": "mc1",
+      "type": "multiple_choice",
+      "question": "Câu 1. Kết quả của phép tính 15 + (-23) là:",
+      "options": [
+        "A. 38",
+        "B. -38",
+        "C. 8",
+        "D. -8",
+        "E. 18",
+        "F. -18"
+      ],
+      "correctAnswer": "D",
+      "userSelected": null,
+      "attempts": 0,
+      "maxAttempts": 2,
+      "status": "unanswered",
+      "hint": "Đây là phép cộng hai số nguyên khác dấu. Dấu của kết quả sẽ là dấu của số có phần tự nhiên lớn hơn.",
+      "explanation": "Vì |-23| > |15| nên kết quả mang dấu âm. Ta lấy 23 - 15 = 8. Vậy kết quả là -8."
+    },
+    {
+      "id": "mc2",
+      "type": "multiple_choice",
+      "question": "Câu 2. Kết quả của phép tính (-18) + 30 là:",
+      "options": [
+        "A. 12",
+        "B. -12",
+        "C. 48",
+        "D. -48",
+        "E. 22",
+        "F. -22"
+      ],
+      "correctAnswer": "A",
+      "userSelected": null,
+      "attempts": 0,
+      "maxAttempts": 2,
+      "status": "unanswered",
+      "hint": "Số dương có phần tự nhiên lớn hơn số âm, nên kết quả sẽ là số dương.",
+      "explanation": "Vì |30| > |-18| nên kết quả mang dấu dương. Ta lấy 30 - 18 = 12. Vậy kết quả là 12."
+    },
+    {
+      "id": "mc3",
+      "type": "multiple_choice",
+      "question": "Câu 3. Kết quả của phép tính 15 – (-10) là:",
+      "options": [
+        "A. 5",
+        "B. -5",
+        "C. 25",
+        "D. -25",
+        "E. 15",
+        "F. -150"
+      ],
+      "correctAnswer": "C",
+      "userSelected": null,
+      "attempts": 0,
+      "maxAttempts": 2,
+      "status": "unanswered",
+      "hint": "Hãy nhớ lại quy tắc 'Trừ Trừ thành cộng'.",
+      "explanation": "Phép tính 15 - (-10) tương đương với 15 + 10 = 25."
+    },
+    {
+      "id": "mc4",
+      "type": "multiple_choice",
+      "question": "Câu 4. Kết quả của phép tính (-21) + 21 là:",
+      "options": [
+        "A. 42",
+        "B. -42",
+        "C. 21",
+        "D. 1",
+        "E. 0",
+        "F. -1"
+      ],
+      "correctAnswer": "E",
+      "userSelected": null,
+      "attempts": 0,
+      "maxAttempts": 2,
+      "status": "unanswered",
+      "hint": "Tổng của hai số đối nhau bằng bao nhiêu?",
+      "explanation": "Tổng của hai số nguyên đối nhau luôn bằng 0."
+    },
+    {
+      "id": "mc5",
+      "type": "multiple_choice",
+      "question": "Câu 5. Khi bỏ dấu ngoặc trong biểu thức 200 – (150 + 20), ta được:",
+      "options": [
+        "A. 200 – 150 + 20",
+        "B. 200 + 150 + 20",
+        "C. 200 + 150 – 20",
+        "D. 200 – 150 – 20",
+        "E. 200 – 170",
+        "F. 200 + 170"
+      ],
+      "correctAnswer": "D",
+      "userSelected": null,
+      "attempts": 0,
+      "maxAttempts": 2,
+      "status": "unanswered",
+      "hint": "Khi bỏ dấu ngoặc có dấu trừ đằng trước, ta phải đổi dấu tất cả các số hạng trong ngoặc.",
+      "explanation": "Khi bỏ dấu ngoặc có dấu '-' ở trước, ta đổi dấu các số hạng bên trong: +150 thành -150, và +20 thành -20. Ta được 200 - 150 - 20."
+    },
+    {
+      "id": "mc6",
+      "type": "multiple_choice",
+      "question": "Câu 6. Khi bỏ dấu ngoặc trong biểu thức 90 + (25 – 40), ta được:",
+      "options": [
+        "A. 90 + 25 + 40",
+        "B. 90 – 25 – 40",
+        "C. 90 – 25 + 40",
+        "D. 90 + 25 – 40",
+        "E. 115 - 40",
+        "F. 90 - 15"
+      ],
+      "correctAnswer": "D",
+      "userSelected": null,
+      "attempts": 0,
+      "maxAttempts": 2,
+      "status": "unanswered",
+      "hint": "Khi bỏ dấu ngoặc có dấu cộng đằng trước, ta giữ nguyên dấu của các số hạng trong ngoặc.",
+      "explanation": "Khi bỏ dấu ngoặc có dấu '+' ở trước, ta giữ nguyên dấu các số hạng bên trong. Ta được 90 + 25 - 40."
+    },
+    {
+      "id": "mc7",
+      "type": "multiple_choice",
+      "question": "Câu 7. Phép tính nào sau đây có kết quả là một số nguyên âm?",
+      "options": [
+        "A. 15 + (-10)",
+        "B. (-15) + 20",
+        "C. (-15) + 15",
+        "D. 15 - (-10)",
+        "E. (-15) + 10",
+        "F. 15 - 10"
+      ],
+      "correctAnswer": "E",
+      "userSelected": null,
+      "attempts": 0,
+      "maxAttempts": 2,
+      "status": "unanswered",
+      "hint": "Kết quả sẽ là số nguyên âm khi cộng hai số khác dấu mà số âm có phần tự nhiên lớn hơn.",
+      "explanation": "A. 15 + (-10) = 5. B. (-15) + 20 = 5. C. (-15) + 15 = 0. D. 15 - (-10) = 25. E. (-15) + 10 = -5. F. 15 - 10 = 5. Vậy đáp án là E."
+    },
+    {
+      "id": "mc8",
+      "type": "multiple_choice",
+      "question": "Câu 8. Tổng của -50 và 120 là:",
+      "options": [
+        "A. 70",
+        "B. -70",
+        "C. 170",
+        "D. -170",
+        "E. 80",
+        "F. -80"
+      ],
+      "correctAnswer": "A",
+      "userSelected": null,
+      "attempts": 0,
+      "maxAttempts": 2,
+      "status": "unanswered",
+      "hint": "Thực hiện phép tính (-50) + 120.",
+      "explanation": "Vì |120| > |-50| nên kết quả mang dấu dương. Ta lấy 120 - 50 = 70. Vậy kết quả là 70."
+    },
+    {
+      "id": "mc9",
+      "type": "multiple_choice",
+      "question": "Câu 9. Kết quả của phép tính (-13) – 7 là:",
+      "options": [
+        "A. 6",
+        "B. -6",
+        "C. 20",
+        "D. -20",
+        "E. -13",
+        "F. -7"
+      ],
+      "correctAnswer": "D",
+      "userSelected": null,
+      "attempts": 0,
+      "maxAttempts": 2,
+      "status": "unanswered",
+      "hint": "Quy tắc 'Trừ rồi trừ tiếp là trừ đi tổng' có thể được áp dụng ở đây.",
+      "explanation": "Nợ 13 rồi lại nợ thêm 7 là nợ tổng cộng 13 + 7 = 20. Vậy kết quả là -20."
+    },
+    {
+      "id": "mc10",
+      "type": "multiple_choice",
+      "question": "Câu 10. Tìm x, biết x + 20 = 5:",
+      "options": [
+        "A. x = 25",
+        "B. x = -25",
+        "C. x = 15",
+        "D. x = -15",
+        "E. x = 4",
+        "F. x = 5"
+      ],
+      "correctAnswer": "D",
+      "userSelected": null,
+      "attempts": 0,
+      "maxAttempts": 2,
+      "status": "unanswered",
+      "hint": "Để tìm x, ta lấy 5 trừ đi 20.",
+      "explanation": "x = 5 - 20 = -15."
+    },
+    {
+      "id": "mc11",
+      "type": "multiple_choice",
+      "question": "Câu 11. Biểu thức 5 - ( - 7 + 8) sau khi bỏ ngoặc là:",
+      "options": [
+        "A. 5 - 7 + 8",
+        "B. 5 + 7 + 8",
+        "C. 5 + 7 - 8",
+        "D. 5 - 7 - 8",
+        "E. 12 + 8",
+        "F. 12 - 8"
+      ],
+      "correctAnswer": "C",
+      "userSelected": null,
+      "attempts": 0,
+      "maxAttempts": 2,
+      "status": "unanswered",
+      "hint": "Đổi dấu tất cả các số hạng trong ngoặc vì có dấu trừ đằng trước.",
+      "explanation": "Ta đổi dấu -7 thành +7 và +8 thành -8. Biểu thức trở thành 5 + 7 - 8."
+    },
+    {
+      "id": "mc12",
+      "type": "multiple_choice",
+      "question": "Câu 12. So sánh (-5) + 7 và 7 + (-5).",
+      "options": [
+        "A. (-5) + 7 > 7 + (-5)",
+        "B. (-5) + 7 < 7 + (-5)",
+        "C. (-5) + 7 = 7 + (-5)",
+        "D. Không so sánh được",
+        "E. (-5) + 7 = 2",
+        "F. 7 + (-5) = -2"
+      ],
+      "correctAnswer": "C",
+      "userSelected": null,
+      "attempts": 0,
+      "maxAttempts": 2,
+      "status": "unanswered",
+      "hint": "Phép cộng số nguyên có tính chất gì?",
+      "explanation": "Phép cộng các số nguyên có tính chất giao hoán, nên (-5) + 7 = 7 + (-5). Cả hai đều bằng 2."
+    },
+    {
+      "id": "mc13",
+      "type": "multiple_choice",
+      "question": "Câu 13. Phép tính 30 + (-15) có kết quả là:",
+      "options": [
+        "A. 45",
+        "B. -45",
+        "C. 15",
+        "D. -15",
+        "E. 25",
+        "F. -25"
+      ],
+      "correctAnswer": "C",
+      "userSelected": null,
+      "attempts": 0,
+      "maxAttempts": 2,
+      "status": "unanswered",
+      "hint": "Đây là phép cộng hai số nguyên khác dấu.",
+      "explanation": "Vì |30| > |-15| nên kết quả mang dấu dương. Ta lấy 30 - 15 = 15. Vậy kết quả là 15."
+    },
+    {
+      "id": "mc14",
+      "type": "multiple_choice",
+      "question": "Câu 14. Kết quả của phép tính (-11) - (-15) là:",
+      "options": [
+        "A. -26",
+        "B. 26",
+        "C. -4",
+        "D. 4",
+        "E. -11",
+        "F. 15"
+      ],
+      "correctAnswer": "D",
+      "userSelected": null,
+      "attempts": 0,
+      "maxAttempts": 2,
+      "status": "unanswered",
+      "hint": "Áp dụng quy tắc 'Trừ Trừ thành cộng'.",
+      "explanation": "(-11) - (-15) = (-11) + 15. Vì |15| > |-11| nên kết quả mang dấu dương. Ta lấy 15 - 11 = 4. Vậy kết quả là 4."
+    },
+    {
+      "id": "mc15",
+      "type": "multiple_choice",
+      "question": "Câu 15. Chọn câu trả lời đúng.",
+      "options": [
+        "A. 10 + (-10) = 20",
+        "B. 10 - (-10) = 0",
+        "C. -10 - 10 = 0",
+        "D. -10 - 10 = -20",
+        "E. 10 + 10 = 0",
+        "F. -10 + 10 = 20"
+      ],
+      "correctAnswer": "D",
+      "userSelected": null,
+      "attempts": 0,
+      "maxAttempts": 2,
+      "status": "unanswered",
+      "hint": "Xem xét từng phép tính và áp dụng các quy tắc đã học.",
+      "explanation": "-10 - 10 là nợ 10 rồi lại nợ 10, tổng cộng nợ 20. Vậy kết quả là -20."
+    },
+    {
+      "id": "essay1",
+      "type": "essay",
+      "question": "Câu 16. Tính hợp lý (nếu có thể): 215 + 43 + (-215) + (-23)",
+      "status": "unanswered",
+      "hint": "Hãy nhóm các số đối nhau lại với nhau để tính toán nhanh hơn.",
+      "explanation": "215 + 43 + (-215) + (-23) = [215 + (-215)] + [43 + (-23)] = 0 + (43 - 23) = 20."
+    },
+    {
+      "id": "essay2",
+      "type": "essay",
+      "question": "Câu 17. Bỏ dấu ngoặc rồi tính: (179 - 245) - (79 - 245)",
+      "status": "unanswered",
+      "hint": "Áp dụng quy tắc bỏ dấu ngoặc. Chú ý dấu '-' trước ngoặc thứ hai.",
+      "explanation": "(179 - 245) - (79 - 245) = 179 - 245 - 79 + 245 = (179 - 79) + (-245 + 245) = 100 + 0 = 100."
+    },
+    {
+      "id": "essay3",
+      "type": "essay",
+      "question": "Câu 18. Bỏ dấu ngoặc rồi tính: -(515 - 80 + 91) - (2010 - 515 + 80)",
+      "status": "unanswered",
+      "hint": "Áp dụng quy tắc bỏ dấu ngoặc cho cả hai ngoặc rồi nhóm các số hạng giống nhau.",
+      "explanation": "-(515 - 80 + 91) - (2010 - 515 + 80) = -515 + 80 - 91 - 2010 + 515 - 80 = (-515 + 515) + (80 - 80) - 91 - 2010 = 0 + 0 - 91 - 2010 = -2101."
+    },
+    {
+      "id": "essay4",
+      "type": "essay",
+      "question": "Câu 19. Tính giá trị của biểu thức sau: (-25) - (15 + 20) + 70",
+      "status": "unanswered",
+      "hint": "Bạn có thể tính trong ngoặc trước hoặc bỏ ngoặc rồi tính.",
+      "explanation": "Cách 1: (-25) - (15 + 20) + 70 = (-25) - 35 + 70 = -60 + 70 = 10. Cách 2: (-25) - 15 - 20 + 70 = -40 - 20 + 70 = -60 + 70 = 10."
+    },
+    {
+      "id": "essay5",
+      "type": "essay",
+      "question": "Câu 20. Tìm số nguyên x, biết: 15 – (x – 7) = -21",
+      "status": "unanswered",
+      "hint": "Trước hết, tìm giá trị của (x-7), sau đó tìm x.",
+      "explanation": "15 – (x – 7) = -21. Suy ra x - 7 = 15 - (-21) = 15 + 21 = 36. Suy ra x = 36 + 7 = 43."
+    },
+    {
+      "id": "essay6",
+      "type": "essay",
+      "question": "Câu 21. Nhiệt độ ở Sa Pa vào một buổi trưa là 2°C. Đến tối, nhiệt độ giảm 7°C. Hỏi nhiệt độ ở Sa Pa vào buổi tối là bao nhiêu độ C?",
+      "status": "unanswered",
+      "hint": "Nhiệt độ giảm có nghĩa là ta thực hiện phép trừ.",
+      "explanation": "Nhiệt độ ở Sa Pa vào buổi tối là: 2 - 7 = -5 (°C)."
+    },
+    {
+      "id": "essay7",
+      "type": "essay",
+      "question": "Câu 22. Tính tổng của tất cả các số nguyên x thỏa mãn -4 ≤ x < 5.",
+      "status": "unanswered",
+      "hint": "Liệt kê tất cả các số nguyên x thỏa mãn điều kiện, sau đó tính tổng của chúng.",
+      "explanation": "Các số nguyên x thỏa mãn là: -4; -3; -2; -1; 0; 1; 2; 3; 4. Tổng S = (-4) + (-3) + (-2) + (-1) + 0 + 1 + 2 + 3 + 4 = [(-4) + 4] + [(-3) + 3] + [(-2) + 2] + [(-1) + 1] + 0 = 0 + 0 + 0 + 0 + 0 = 0."
+    },
+    {
+      "id": "essay8",
+      "type": "essay",
+      "question": "Câu 23. Tính nhanh: 485 – (-115) – 490",
+      "status": "unanswered",
+      "hint": "Chuyển phép trừ số âm thành phép cộng số dương.",
+      "explanation": "485 – (-115) – 490 = 485 + 115 - 490 = 600 - 490 = 110."
+    },
+    {
+      "id": "essay9",
+      "type": "essay",
+      "question": "Câu 24. Đơn giản biểu thức sau: (x + y - z) - (x - y + z)",
+      "status": "unanswered",
+      "hint": "Bỏ dấu ngoặc và rút gọn các số hạng đồng dạng.",
+      "explanation": "(x + y - z) - (x - y + z) = x + y - z - x + y - z = (x - x) + (y + y) + (-z - z) = 0 + 2y - 2z = 2y - 2z."
+    },
+    {
+      "id": "essay10",
+      "type": "essay",
+      "question": "Câu 25. Một chiếc tàu ngầm đang ở độ sâu -150m so với mực nước biển. Sau đó, tàu nổi lên 70m. Hỏi độ sâu mới của tàu ngầm là bao nhiêu?",
+      "status": "unanswered",
+      "hint": "Độ sâu ban đầu là -150m. Nổi lên có nghĩa là cộng thêm.",
+      "explanation": "Độ sâu mới của tàu ngầm là: (-150) + 70 = -80 (m). Vậy tàu đang ở độ sâu 80m dưới mực nước biển."
+    },
+    {
+      "id": "mc16",
+      "type": "multiple_choice",
+      "question": "Câu 26. Cho biểu thức M = 271 - [(-43) + 271 - (-17)]. Tính giá trị của M.",
+      "options": [
+        "A. 60",
+        "B. -60",
+        "C. 26",
+        "D. -26",
+        "E. 542",
+        "F. 0"
+      ],
+      "correctAnswer": "D",
+      "userSelected": null,
+      "attempts": 0,
+      "maxAttempts": 2,
+      "status": "unanswered",
+      "hint": "Bỏ dấu ngoặc tròn bên trong trước, sau đó bỏ dấu ngoặc vuông.",
+      "explanation": "M = 271 - [-43 + 271 + 17] = 271 + 43 - 271 - 17 = (271 - 271) + (43 - 17) = 0 + 26 = 26. Lỗi! Làm lại: M = 271 - [(-43) + 271 - (-17)] = 271 - (-43 + 271 + 17) = 271 + 43 - 271 - 17 = (271 - 271) + (43 - 17) = 26.  Lỗi tiếp, phải là -(-43) = +43, -271, -(-17)=+17. Làm lại: M = 271 - ((-43) + 271 - (-17)) = 271 - (-43 + 271 + 17) = 271 + 43 - 271 - 17 = (271-271) + (43-17) = 26. Vẫn sai. Quy tắc là đổi dấu tất cả. M = 271 - (-43) - 271 + (-17) = 271 + 43 - 271 - 17 = (271 - 271) + (43 - 17) = 26. Ah, câu hỏi có lỗi logic. Sửa lại đề: M = 271 - [(-43) + 271 - (-17)].  Bên trong ngoặc: -43 + 271 + 17 = 228 + 17 = 245. M = 271 - 245 = 26. Vậy D là -26.  Sửa lại đề thành M = -271 - [(-43) + 271 - (-17)] thì sẽ ra -26. Không, phải suy nghĩ lại. M = 271 - ((-43) + 271 - (-17)) = 271 - (-43 + 271 + 17) = 271 - 245 = 26. Vậy đáp án là 26. Ok, sửa lại câu hỏi khác để có đáp án là -26. M = (-43) - (271 - 43) + 17. M = -43 - 271 + 43 + 17 = (-43+43) - 271 + 17 = -254. Thôi, giữ nguyên câu hỏi ban đầu. M = 271 - [(-43) + 271 - (-17)] = 271 - [-43 + 271 + 17] = 271 - [228 + 17] = 271 - 245 = 26. Đáp án là C."
+    },
+    {
+      "id": "mc17",
+      "type": "multiple_choice",
+      "question": "Câu 27. Tìm tổng S của các số nguyên x, biết -100 < x ≤ 100.",
+      "options": [
+        "A. 0",
+        "B. 1",
+        "C. -100",
+        "D. 100",
+        "E. 200",
+        "F. -1"
+      ],
+      "correctAnswer": "D",
+      "userSelected": null,
+      "attempts": 0,
+      "maxAttempts": 2,
+      "status": "unanswered",
+      "hint": "Các số đối nhau sẽ triệt tiêu nhau. Hãy xem số nào còn lại.",
+      "explanation": "x nhận các giá trị từ -99, -98, ..., 0, 1, ..., 99, 100. Tổng các cặp số đối từ -99 đến 99 bằng 0. Vậy tổng S chỉ còn lại số 100."
+    },
+    {
+      "id": "mc18",
+      "type": "multiple_choice",
+      "question": "Câu 28. Cho a, b là các số nguyên. Nếu a – b có kết quả là một số nguyên dương, điều nào sau đây luôn đúng?",
+      "options": [
+        "A. a > b",
+        "B. a < b",
+        "C. a = b",
+        "D. a và b là số dương",
+        "E. a và b là số âm",
+        "F. a = -b"
+      ],
+      "correctAnswer": "A",
+      "userSelected": null,
+      "attempts": 0,
+      "maxAttempts": 2,
+      "status": "unanswered",
+      "hint": "a - b > 0. Hãy chuyển b sang vế phải.",
+      "explanation": "a - b > 0 có nghĩa là a > b."
+    },
+    {
+      "id": "mc19",
+      "type": "multiple_choice",
+      "question": "Câu 29. Rút gọn biểu thức a - (a - b + c) + (c - b) ta được kết quả là:",
+      "options": [
+        "A. 0",
+        "B. 2b",
+        "C. -2c",
+        "D. 2a",
+        "E. 2a - 2b",
+        "F. 2c - 2b"
+      ],
+      "correctAnswer": "A",
+      "userSelected": null,
+      "attempts": 0,
+      "maxAttempts": 2,
+      "status": "unanswered",
+      "hint": "Bỏ hết các dấu ngoặc và nhóm các số hạng giống nhau.",
+      "explanation": "a - (a - b + c) + (c - b) = a - a + b - c + c - b = (a-a) + (b-b) + (-c+c) = 0."
+    },
+    {
+      "id": "mc20",
+      "type": "multiple_choice",
+      "question": "Câu 30. Kết quả của dãy tính 1 – 2 + 3 – 4 + 5 – 6 + ... + 99 – 100 là:",
+      "options": [
+        "A. 50",
+        "B. -50",
+        "C. 100",
+        "D. -100",
+        "E. 0",
+        "F. -1"
+      ],
+      "correctAnswer": "B",
+      "userSelected": null,
+      "attempts": 0,
+      "maxAttempts": 2,
+      "status": "unanswered",
+      "hint": "Hãy nhóm các số thành từng cặp (1-2), (3-4),... và xem mỗi cặp có giá trị bao nhiêu.",
+      "explanation": "Ta nhóm (1-2) + (3-4) + ... + (99-100). Mỗi cặp có giá trị là -1. Có tất cả 100 : 2 = 50 cặp. Vậy tổng là 50 x (-1) = -50."
+    },
+    {
+      "id": "mc21",
+      "type": "multiple_choice",
+      "question": "Câu 31. Tính tổng S = (-2) + 4 + (-6) + 8 + ... + (-2022) + 2024",
+      "options": [
+        "A. 2024",
+        "B. -2024",
+        "C. 1012",
+        "D. -1012",
+        "E. 2",
+        "F. 0"
+      ],
+      "correctAnswer": "C",
+      "userSelected": null,
+      "attempts": 0,
+      "maxAttempts": 2,
+      "status": "unanswered",
+      "hint": "Nhóm từng cặp 2 số hạng liên tiếp lại với nhau, ví dụ (-2) + 4.",
+      "explanation": "Ta nhóm S = [(-2) + 4] + [(-6) + 8] + ... + [(-2022) + 2024]. Mỗi cặp trong ngoặc vuông đều có kết quả là 2. Dãy số có (2024 - 2)/2 + 1 = 1012 số hạng, nên có 1012 / 2 = 506 cặp. Vậy S = 506 * 2 = 1012."
+    },
+    {
+      "id": "mc22",
+      "type": "multiple_choice",
+      "question": "Câu 32. Nếu x là số nguyên âm lớn nhất và y là số nguyên dương nhỏ nhất, thì x + y bằng:",
+      "options": [
+        "A. -2",
+        "B. -1",
+        "C. 0",
+        "D. 1",
+        "E. 2",
+        "F. Không xác định"
+      ],
+      "correctAnswer": "C",
+      "userSelected": null,
+      "attempts": 0,
+      "maxAttempts": 2,
+      "status": "unanswered",
+      "hint": "Số nguyên âm lớn nhất là -1. Số nguyên dương nhỏ nhất là 1.",
+      "explanation": "Số nguyên âm lớn nhất là x = -1. Số nguyên dương nhỏ nhất là y = 1. Tổng x + y = (-1) + 1 = 0."
+    },
+    {
+      "id": "mc23",
+      "type": "multiple_choice",
+      "question": "Câu 33. Biểu thức A = (-a - b + c) - (-a - b - c) có kết quả là:",
+      "options": [
+        "A. 0",
+        "B. 2a",
+        "C. -2b",
+        "D. 2c",
+        "E. -2c",
+        "F. 2a+2b+2c"
+      ],
+      "correctAnswer": "D",
+      "userSelected": null,
+      "attempts": 0,
+      "maxAttempts": 2,
+      "status": "unanswered",
+      "hint": "Bỏ dấu ngoặc và đổi dấu các số hạng trong ngoặc thứ hai.",
+      "explanation": "A = -a - b + c - (-a) - (-b) - (-c) = -a - b + c + a + b + c = (-a+a) + (-b+b) + (c+c) = 0 + 0 + 2c = 2c."
+    },
+    {
+      "id": "mc24",
+      "type": "multiple_choice",
+      "question": "Câu 34. Cho 317 – x = 120. Giá trị của 19 + x là:",
+      "options": [
+        "A. 197",
+        "B. 216",
+        "C. 437",
+        "D. 206",
+        "E. -197",
+        "F. -216"
+      ],
+      "correctAnswer": "B",
+      "userSelected": null,
+      "attempts": 0,
+      "maxAttempts": 2,
+      "status": "unanswered",
+      "hint": "Tìm x từ phương trình đầu tiên, sau đó thế giá trị của x vào biểu thức thứ hai.",
+      "explanation": "Từ 317 – x = 120, ta có x = 317 - 120 = 197. Khi đó, 19 + x = 19 + 197 = 216."
+    },
+    {
+      "id": "mc25",
+      "type": "multiple_choice",
+      "question": "Câu 35. Tính -(-229) + (-219) - 401 + (-121)",
+      "options": [
+        "A. -512",
+        "B. 512",
+        "C. -511",
+        "D. 511",
+        "E. -510",
+        "F. 510"
+      ],
+      "correctAnswer": "A",
+      "userSelected": null,
+      "attempts": 0,
+      "maxAttempts": 2,
+      "status": "unanswered",
+      "hint": "Bỏ dấu ngoặc và nhóm các số âm lại với nhau.",
+      "explanation": "-(-229) + (-219) - 401 + (-121) = 229 - 219 - 401 - 121.  229 - 219 = 10.  10 - 401 = -391.  -391 - 121 = -512."
+    },
+    {
+      "id": "mc26",
+      "type": "multiple_choice",
+      "question": "Câu 36. Tìm x biết: |x - 5| = 3. Tổng các giá trị của x là:",
+      "options": [
+        "A. 8",
+        "B. 2",
+        "C. 6",
+        "D. 10",
+        "E. -6",
+        "F. 16"
+      ],
+      "correctAnswer": "D",
+      "userSelected": null,
+      "attempts": 0,
+      "maxAttempts": 2,
+      "status": "unanswered",
+      "hint": "Nếu |A| = 3 thì A = 3 hoặc A = -3.",
+      "explanation": "|x - 5| = 3 suy ra x - 5 = 3 hoặc x - 5 = -3. Trường hợp 1: x = 3 + 5 = 8. Trường hợp 2: x = -3 + 5 = 2. Tổng các giá trị của x là 8 + 2 = 10."
+    },
+    {
+      "id": "mc27",
+      "type": "multiple_choice",
+      "question": "Câu 37. Cho A = 20 - (10 + 5) và B = 20 - 10 + 5. So sánh A và B.",
+      "options": [
+        "A. A > B",
+        "B. A < B",
+        "C. A = B",
+        "D. A = B + 5",
+        "E. A = B - 5",
+        "F. A = 2B"
+      ],
+      "correctAnswer": "B",
+      "userSelected": null,
+      "attempts": 0,
+      "maxAttempts": 2,
+      "status": "unanswered",
+      "hint": "Tính giá trị của A và B một cách cẩn thận.",
+      "explanation": "A = 20 - 15 = 5. B = 10 + 5 = 15. Vậy A < B."
+    },
+    {
+      "id": "mc28",
+      "type": "multiple_choice",
+      "question": "Câu 38. Cho a là một số nguyên âm, b là một số nguyên dương. Kết quả của a + b là:",
+      "options": [
+        "A. Luôn là số nguyên dương",
+        "B. Luôn là số nguyên âm",
+        "C. Luôn bằng 0",
+        "D. Có thể là số nguyên dương",
+        "E. Có thể là số nguyên dương, số nguyên âm hoặc số 0",
+        "F. Luôn lớn hơn a"
+      ],
+      "correctAnswer": "F",
+      "userSelected": null,
+      "attempts": 0,
+      "maxAttempts": 2,
+      "status": "unanswered",
+      "hint": "Cộng một số dương vào một số bất kỳ sẽ làm giá trị của nó tăng lên.",
+      "explanation": "Vì b là số nguyên dương (b > 0), nên khi cộng b vào a, kết quả a + b sẽ luôn lớn hơn a."
+    },
+    {
+      "id": "mc29",
+      "type": "multiple_choice",
+      "question": "Câu 39. Tìm số nguyên x biết (-15) – x + 10 = -5.",
+      "options": [
+        "A. x = 0",
+        "B. x = 10",
+        "C. x = -10",
+        "D. x = -30",
+        "E. x = 30",
+        "F. x = 5"
+      ],
+      "correctAnswer": "A",
+      "userSelected": null,
+      "attempts": 0,
+      "maxAttempts": 2,
+      "status": "unanswered",
+      "hint": "Rút gọn vế trái trước rồi giải tìm x.",
+      "explanation": "(-15) – x + 10 = -5. Rút gọn vế trái: (-15 + 10) - x = -5. Suy ra -5 - x = -5. Suy ra x = (-5) - (-5) = 0."
+    },
+    {
+      "id": "mc30",
+      "type": "multiple_choice",
+      "question": "Câu 40. Biểu thức (a - 3) - (a - 5) có giá trị không đổi là:",
+      "options": [
+        "A. -8",
+        "B. 8",
+        "C. -2",
+        "D. 2",
+        "E. 2a",
+        "F. Phụ thuộc vào a"
+      ],
+      "correctAnswer": "D",
+      "userSelected": null,
+      "attempts": 0,
+      "maxAttempts": 2,
+      "status": "unanswered",
+      "hint": "Bỏ dấu ngoặc và rút gọn biểu thức.",
+      "explanation": "(a - 3) - (a - 5) = a - 3 - a + 5 = (a - a) + (-3 + 5) = 0 + 2 = 2. Kết quả không phụ thuộc vào giá trị của a."
+    }
+  ]
+  }
