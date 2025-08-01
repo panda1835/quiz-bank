@@ -1,0 +1,186 @@
+{
+    "subject": "Toán 6",
+    "topic": "CÁC PHÉP TÍNH TRÊN SỐ NGUYÊN 3",
+    "questions": [
+    {
+      "id": "fill21",
+      "type": "fill",
+      "question": "Câu 21. Bỏ dấu ngoặc rồi tính: 15 - (20 - 30) = ?",
+      "correctAnswer": "25",
+      "attempts": 0,
+      "maxAttempts": 1000,
+      "status": "unanswered"
+    },
+    {
+      "id": "fill22",
+      "type": "fill",
+      "question": "Câu 22. Bỏ dấu ngoặc rồi tính: (56 - 27) - (11 + 56 - 27) = ?",
+      "correctAnswer": "-11",
+      "attempts": 0,
+      "maxAttempts": 1000,
+      "status": "unanswered"
+    },
+    {
+      "id": "fill23",
+      "type": "fill",
+      "question": "Câu 23. Bỏ dấu ngoặc rồi tính: -(123 - 45) + (123 - 55) = ?",
+      "correctAnswer": "-10",
+      "attempts": 0,
+      "maxAttempts": 1000,
+      "status": "unanswered"
+    },
+    {
+      "id": "fill24",
+      "type": "fill",
+      "question": "Câu 24. Tính hợp lý: 45 - [20 - (30 - 55)] = ?",
+      "correctAnswer": "0",
+      "attempts": 0,
+      "maxAttempts": 1000,
+      "status": "unanswered"
+    },
+    {
+      "id": "fill25",
+      "type": "fill",
+      "question": "Câu 25. Tính: (-15) - ((-8) - (15 + 8)) = ?",
+      "correctAnswer": "15",
+      "attempts": 0,
+      "maxAttempts": 1000,
+      "status": "unanswered"
+    },
+    {
+      "id": "fill26",
+      "type": "fill",
+      "question": "Câu 26. Bỏ dấu ngoặc rồi tính: -5 - (15 - 20) - (25 - 10) = ?",
+      "correctAnswer": "-15",
+      "attempts": 0,
+      "maxAttempts": 1000,
+      "status": "unanswered"
+    },
+    {
+      "id": "fill27",
+      "type": "fill",
+      "question": "Câu 27. Tính hợp lý: 217 - (-43 + 217) - (20 - 43) = ?",
+      "correctAnswer": "23",
+      "attempts": 0,
+      "maxAttempts": 1000,
+      "status": "unanswered"
+    },
+    {
+      "id": "fill28",
+      "type": "fill",
+      "question": "Câu 28. Tính: (-100) - [25 - (-100 - 75)] = ?",
+      "correctAnswer": "-300",
+      "attempts": 0,
+      "maxAttempts": 1000,
+      "status": "unanswered"
+    },
+    {
+      "id": "fill29",
+      "type": "fill",
+      "question": "Câu 29. Bỏ dấu ngoặc rồi tính: (401 - 79 + 54) - (-79 + 401) = ?",
+      "correctAnswer": "54",
+      "attempts": 0,
+      "maxAttempts": 1000,
+      "status": "unanswered"
+    },
+    {
+      "id": "fill30",
+      "type": "fill",
+      "question": "Câu 30. Tính: -(-315) - (-115 + 315) = ?",
+      "correctAnswer": "115",
+      "attempts": 0,
+      "maxAttempts": 1000,
+      "status": "unanswered"
+    },
+    {
+      "id": "fill31",
+      "type": "fill",
+      "question": "Câu 31. Tính hợp lý: (144 - 97 - 145) - (144 - 145) = ?",
+      "correctAnswer": "-97",
+      "attempts": 0,
+      "maxAttempts": 1000,
+      "status": "unanswered"
+    },
+    {
+      "id": "fill32",
+      "type": "fill",
+      "question": "Câu 32. Bỏ dấu ngoặc rồi tính: 22 - ( -17 + 22 - 83 ) - ( -17 - 83) = ?",
+      "correctAnswer": "100",
+      "attempts": 0,
+      "maxAttempts": 1000,
+      "status": "unanswered"
+    },
+    {
+      "id": "fill33",
+      "type": "fill",
+      "question": "Câu 33. Tính: -1 - 2 - 3 - 4 - ... - 10 = ?",
+      "correctAnswer": "-55",
+      "attempts": 0,
+      "maxAttempts": 1000,
+      "status": "unanswered"
+    },
+    {
+      "id": "fill34",
+      "type": "fill",
+      "question": "Câu 34. Tính: (20 - 24) + (28 - 32) + (36 - 40) = ?",
+      "correctAnswer": "-12",
+      "attempts": 0,
+      "maxAttempts": 1000,
+      "status": "unanswered"
+    },
+    {
+      "id": "fill35",
+      "type": "fill",
+      "question": "Câu 35. Bỏ dấu ngoặc rồi tính: 50 - [100 - (50 - 20) + 70] = ?",
+      "correctAnswer": "-90",
+      "attempts": 0,
+      "maxAttempts": 1000,
+      "status": "unanswered"
+    },
+    {
+      "id": "fill36",
+      "type": "fill",
+      "question": "Câu 36. Tìm x, biết: 40 - (x + 10) = -20 - (5 + (-20))",
+      "correctAnswer": "35",
+      "attempts": 0,
+      "maxAttempts": 1000,
+      "status": "unanswered"
+    },
+    {
+      "id": "fill37",
+      "type": "fill",
+      "question": "Câu 37. Tính: 100 - (101 - 1) - (102 - 2) - (103 - 3) = ?",
+      "correctAnswer": "-200",
+      "attempts": 0,
+      "maxAttempts": 1000,
+      "status": "unanswered"
+    },
+    {
+      "id": "fill38",
+      "type": "fill",
+      "question": "Câu 38. Tính hợp lý: (213 - 345) + (-213 - 55) = ?",
+      "correctAnswer": "-400",
+      "attempts": 0,
+      "maxAttempts": 1000,
+      "status": "unanswered"
+    },
+    {
+      "id": "fill39",
+      "type": "fill",
+      "question": "Câu 39. Tính: (-317 - 5) - ( -317 + 20) = ?",
+      "correctAnswer": "-25",
+      "attempts": 0,
+      "maxAttempts": 1000,
+      "status": "unanswered"
+    },
+    {
+      "id": "fill40",
+      "type": "fill",
+      "question": "Câu 40. Bỏ dấu ngoặc rồi tính: (a - b - c) - (a + b - c) = ? (viết kết quả rút gọn)",
+      "correctAnswer": "-2b",
+      "attempts": 0,
+      "maxAttempts": 1000,
+      "status": "unanswered"
+    }
+]
+  }
