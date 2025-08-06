@@ -1,0 +1,187 @@
+{
+    "subject": "Toán 6",
+    "topic": "Luyện tập phép nhân, phép chia, ƯCLN, BCNN",
+    "questions":[
+  {
+    "id": "q1_b4073b9e",
+    "type": "fill",
+    "question": "Câu 1. Tính: 12 × 34 = ?",
+    "correctAnswer": "408",
+    "attempts": 0,
+    "maxAttempts": 10,
+    "status": "unanswered"
+  },
+  {
+    "id": "q2_992d70a1",
+    "type": "fill",
+    "question": "Câu 2. Tính: 123 × 45 = ?",
+    "correctAnswer": "5535",
+    "attempts": 0,
+    "maxAttempts": 10,
+    "status": "unanswered"
+  },
+  {
+    "id": "q3_f7b3b3fc",
+    "type": "fill",
+    "question": "Câu 3. Tính: 234 × 678 = ?",
+    "correctAnswer": "158652",
+    "attempts": 0,
+    "maxAttempts": 10,
+    "status": "unanswered"
+  },
+  {
+    "id": "q4_34f18e43",
+    "type": "fill",
+    "question": "Câu 4. Tính: 1234 × 87 = ?",
+    "correctAnswer": "107358",
+    "attempts": 0,
+    "maxAttempts": 10,
+    "status": "unanswered"
+  },
+  {
+    "id": "q5_5e129be6",
+    "type": "fill",
+    "question": "Câu 5. Tính: 2345 × 78 = ?",
+    "correctAnswer": "182910",
+    "attempts": 0,
+    "maxAttempts": 10,
+    "status": "unanswered"
+  },
+  {
+    "id": "q6_99a6b7e1",
+    "type": "fill",
+    "question": "Câu 6. Thương của phép chia 1005 chia 5 là bao nhiêu?",
+    "correctAnswer": "201",
+    "attempts": 0,
+    "maxAttempts": 10,
+    "status": "unanswered"
+  },
+  {
+    "id": "q7_b60ff3cf",
+    "type": "fill",
+    "question": "Câu 7. Dư của phép chia 1234 chia 11 là bao nhiêu?",
+    "correctAnswer": "2",
+    "attempts": 0,
+    "maxAttempts": 10,
+    "status": "unanswered"
+  },
+  {
+    "id": "q8_c1fe8042",
+    "type": "fill",
+    "question": "Câu 8. Thương của phép chia 4589 chia 13 là bao nhiêu?",
+    "correctAnswer": "353",
+    "attempts": 0,
+    "maxAttempts": 10,
+    "status": "unanswered"
+  },
+  {
+    "id": "q9_53f4e8b2",
+    "type": "fill",
+    "question": "Câu 9. Dư của phép chia 8923 chia 17 là bao nhiêu?",
+    "correctAnswer": "15",
+    "attempts": 0,
+    "maxAttempts": 10,
+    "status": "unanswered"
+  },
+  {
+    "id": "q10_f8011dc2",
+    "type": "fill",
+    "question": "Câu 10. Thương của phép chia 7234 chia 28 là bao nhiêu?",
+    "correctAnswer": "258",
+    "attempts": 0,
+    "maxAttempts": 10,
+    "status": "unanswered"
+  },
+  {
+    "id": "q13_e71d3bd2",
+    "type": "fill",
+    "question": "Câu 11. Tìm Ước chung lớn nhất của các số: 105, 30",
+    "correctAnswer": "15",
+    "attempts": 0,
+    "maxAttempts": 5,
+    "status": "unanswered"
+  },
+  {
+    "id": "q14_0bb95aa7",
+    "type": "fill",
+    "question": "Câu 12. Tìm Ước chung lớn nhất của các số: 120, 90, 60",
+    "correctAnswer": "30",
+    "attempts": 0,
+    "maxAttempts": 5,
+    "status": "unanswered"
+  },
+  {
+    "id": "q15_6d8f69fa",
+    "type": "fill",
+    "question": "Câu 13. Tìm Ước chung lớn nhất của các số: 168, 252",
+    "correctAnswer": "84",
+    "attempts": 0,
+    "maxAttempts": 5,
+    "status": "unanswered"
+  },
+  {
+    "id": "q16_649b8e59",
+    "type": "fill",
+    "question": "Câu 14. Tìm Ước chung lớn nhất của các số: 315, 210, 105",
+    "correctAnswer": "105",
+    "attempts": 0,
+    "maxAttempts": 5,
+    "status": "unanswered"
+  },
+  {
+    "id": "q17_42d5e703",
+    "type": "fill",
+    "question": "Câu 15. Tìm Ước chung lớn nhất của các số: 180, 240, 300",
+    "correctAnswer": "60",
+    "attempts": 0,
+    "maxAttempts": 5,
+    "status": "unanswered"
+  },
+  {
+    "id": "lcm_hard1",
+    "type": "fill",
+    "question": "Câu 16. Tìm bội chung nhỏ nhất của các số 24, 36, 60 là?",
+    "correctAnswer": "360",
+    "attempts": 0,
+    "maxAttempts": 5,
+    "status": "unanswered"
+  },
+  {
+    "id": "lcm_hard2",
+    "type": "fill",
+    "question": "Câu 17. Tìm bội chung nhỏ nhất của các số 45, 75 là?",
+    "correctAnswer": "225",
+    "attempts": 0,
+    "maxAttempts": 5,
+    "status": "unanswered"
+  },
+  {
+    "id": "lcm_hard3",
+    "type": "fill",
+    "question": "Câu 18. Tìm bội chung nhỏ nhất của các số 48, 64 là?",
+    "correctAnswer": "192",
+    "attempts": 0,
+    "maxAttempts": 5,
+    "status": "unanswered"
+  },
+  {
+    "id": "lcm_hard4",
+    "type": "fill",
+    "question": "Câu 19. Tìm bội chung nhỏ nhất của các số 84, 96 là?",
+    "correctAnswer": "672",
+    "attempts": 0,
+    "maxAttempts": 5,
+    "status": "unanswered"
+  },
+  {
+    "id": "lcm_hard5",
+    "type": "fill",
+    "question": "Câu 20. Tìm bội chung nhỏ nhất của các số 55, 77 là?",
+    "correctAnswer": "385",
+    "attempts": 0,
+    "maxAttempts": 5,
+    "status": "unanswered"
+  }
+]
+
+}
