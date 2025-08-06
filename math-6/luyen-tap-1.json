@@ -77,8 +77,8 @@
   {
     "id": "q9_53f4e8b2",
     "type": "fill",
-    "question": "Câu 9. Dư của phép chia 8923 chia 17 là bao nhiêu?",
-    "correctAnswer": "15",
+    "question": "Câu 9. Dư của phép chia 8923 chia 170 là bao nhiêu?",
+    "correctAnswer": "83",
     "attempts": 0,
     "maxAttempts": 10,
     "status": "unanswered"
@@ -86,8 +86,8 @@
   {
     "id": "q10_f8011dc2",
     "type": "fill",
-    "question": "Câu 10. Thương của phép chia 7234 chia 28 là bao nhiêu?",
-    "correctAnswer": "258",
+    "question": "Câu 10. Thương của phép chia 7234 chia 282 là bao nhiêu?",
+    "correctAnswer": "25",
     "attempts": 0,
     "maxAttempts": 10,
     "status": "unanswered"
