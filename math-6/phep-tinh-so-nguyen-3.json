@@ -42,7 +42,7 @@
       "id": "fill25",
       "type": "fill",
       "question": "Câu 25. Tính: (-15) - ((-8) - (15 + 8)) = ?",
-      "correctAnswer": "15",
+      "correctAnswer": "16",
       "attempts": 0,
       "maxAttempts": 1000,
       "status": "unanswered"
@@ -60,7 +60,7 @@
       "id": "fill27",
       "type": "fill",
       "question": "Câu 27. Tính hợp lý: 217 - (-43 + 217) - (20 - 43) = ?",
-      "correctAnswer": "23",
+      "correctAnswer": "66",
       "attempts": 0,
       "maxAttempts": 1000,
       "status": "unanswered"
@@ -105,7 +105,7 @@
       "id": "fill32",
       "type": "fill",
       "question": "Câu 32. Bỏ dấu ngoặc rồi tính: 22 - ( -17 + 22 - 83 ) - ( -17 - 83) = ?",
-      "correctAnswer": "100",
+      "correctAnswer": "200",
       "attempts": 0,
       "maxAttempts": 1000,
       "status": "unanswered"
