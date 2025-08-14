@@ -8,7 +8,7 @@
     "question": "Câu 1. Tính: 25 + (-14) = ?",
     "correctAnswer": "11",
     "attempts": 0,
-    "maxAttempts": 1000,
+    "maxAttempts": 2,
     "status": "unanswered"
   },
   {
@@ -17,7 +17,7 @@
     "question": "Câu 2. Tính: -37 + 45 = ?",
     "correctAnswer": "8",
     "attempts": 0,
-    "maxAttempts": 1000,
+    "maxAttempts": 2,
     "status": "unanswered"
   },
   {
@@ -26,7 +26,7 @@
     "question": "Câu 3. Tính: 64 - (-27) = ?",
     "correctAnswer": "91",
     "attempts": 0,
-    "maxAttempts": 1000,
+    "maxAttempts": 2,
     "status": "unanswered"
   },
   {
@@ -35,7 +35,7 @@
     "question": "Câu 4. Tính: -58 - 23 = ?",
     "correctAnswer": "-81",
     "attempts": 0,
-    "maxAttempts": 1000,
+    "maxAttempts": 2,
     "status": "unanswered"
   },
   {
@@ -44,7 +44,7 @@
     "question": "Câu 5. Tính: -12 + (-48) = ?",
     "correctAnswer": "-60",
     "attempts": 0,
-    "maxAttempts": 1000,
+    "maxAttempts": 2,
     "status": "unanswered"
   },
   {
@@ -53,7 +53,7 @@
     "question": "Câu 6. Tính: 39 - 84 = ?",
     "correctAnswer": "-45",
     "attempts": 0,
-    "maxAttempts": 1000,
+    "maxAttempts": 2,
     "status": "unanswered"
   },
   {
@@ -62,7 +62,7 @@
     "question": "Câu 7. Tính: -66 + (-19) = ?",
     "correctAnswer": "-85",
     "attempts": 0,
-    "maxAttempts": 1000,
+    "maxAttempts": 2,
     "status": "unanswered"
   },
   {
@@ -71,7 +71,7 @@
     "question": "Câu 8. Tính: 78 - (-14) = ?",
     "correctAnswer": "92",
     "attempts": 0,
-    "maxAttempts": 1000,
+    "maxAttempts": 2,
     "status": "unanswered"
   },
   {
@@ -80,7 +80,7 @@
     "question": "Câu 9. Tính: -25 - (-37) = ?",
     "correctAnswer": "12",
     "attempts": 0,
-    "maxAttempts": 1000,
+    "maxAttempts": 2,
     "status": "unanswered"
   },
   {
@@ -89,7 +89,7 @@
     "question": "Câu 10. Tính: 56 + (-72) = ?",
     "correctAnswer": "-16",
     "attempts": 0,
-    "maxAttempts": 1000,
+    "maxAttempts": 2,
     "status": "unanswered"
   },
   {
@@ -98,7 +98,7 @@
     "question": "Câu 11. Tính: -48 + 33 = ?",
     "correctAnswer": "-15",
     "attempts": 0,
-    "maxAttempts": 1000,
+    "maxAttempts": 2,
     "status": "unanswered"
   },
   {
@@ -107,7 +107,7 @@
     "question": "Câu 12. Tính: 19 - (-55) = ?",
     "correctAnswer": "74",
     "attempts": 0,
-    "maxAttempts": 1000,
+    "maxAttempts": 2,
     "status": "unanswered"
   },
   {
@@ -116,7 +116,7 @@
     "question": "Câu 13. Tính: -33 - 47 = ?",
     "correctAnswer": "-80",
     "attempts": 0,
-    "maxAttempts": 1000,
+    "maxAttempts": 2,
     "status": "unanswered"
   },
   {
@@ -125,7 +125,7 @@
     "question": "Câu 14. Tính: 88 + (-61) = ?",
     "correctAnswer": "27",
     "attempts": 0,
-    "maxAttempts": 1000,
+    "maxAttempts": 2,
     "status": "unanswered"
   },
   {
@@ -134,7 +134,7 @@
     "question": "Câu 15. Tính: -72 - (-15) = ?",
     "correctAnswer": "-57",
     "attempts": 0,
-    "maxAttempts": 1000,
+    "maxAttempts": 2,
     "status": "unanswered"
   },
   {
@@ -143,7 +143,7 @@
     "question": "Câu 16. Tính: 42 - 96 = ?",
     "correctAnswer": "-54",
     "attempts": 0,
-    "maxAttempts": 1000,
+    "maxAttempts": 2,
     "status": "unanswered"
   },
   {
@@ -152,7 +152,7 @@
     "question": "Câu 17. Tính: -11 + (-87) = ?",
     "correctAnswer": "-98",
     "attempts": 0,
-    "maxAttempts": 1000,
+    "maxAttempts": 2,
     "status": "unanswered"
   },
   {
@@ -161,7 +161,7 @@
     "question": "Câu 18. Tính: 67 + 29 = ?",
     "correctAnswer": "96",
     "attempts": 0,
-    "maxAttempts": 1000,
+    "maxAttempts": 2,
     "status": "unanswered"
   },
   {
@@ -170,7 +170,7 @@
     "question": "Câu 19. Tính: -59 + 42 = ?",
     "correctAnswer": "-17",
     "attempts": 0,
-    "maxAttempts": 1000,
+    "maxAttempts": 2,
     "status": "unanswered"
   },
   {
@@ -179,7 +179,7 @@
     "question": "Câu 20. Tính: 31 - (-62) = ?",
     "correctAnswer": "93",
     "attempts": 0,
-    "maxAttempts": 1000,
+    "maxAttempts": 2,
     "status": "unanswered"
   }
 ]
