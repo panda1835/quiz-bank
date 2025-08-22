@@ -1,0 +1,50 @@
+{
+    "subject": "Toán 6",
+    "topic": "PHÉP CỘNG VÀ TRỪ HAI SỐ NGUYÊN",
+    "questions": 
+  [
+  { "id": "fill1",  "type": "fill", "question": "Câu 1. Tính: ((25 - (-13)) + (-7)) - 18 = ?", "correctAnswer": "13",  "attempts": 0, "maxAttempts": 3, "status": "unanswered" },
+  { "id": "fill2",  "type": "fill", "question": "Câu 2. Tính: (-(42 + (-15)) - 11) + 9 = ?", "correctAnswer": "-29",  "attempts": 0, "maxAttempts": 3, "status": "unanswered" },
+  { "id": "fill3",  "type": "fill", "question": "Câu 3. Tính: (38 + (-(19 - 6))) - 21 = ?", "correctAnswer": "4",   "attempts": 0, "maxAttempts": 3, "status": "unanswered" },
+  { "id": "fill4",  "type": "fill", "question": "Câu 4. Tính: ((-33 + 17) - (-21)) + (-12) = ?", "correctAnswer": "-7",   "attempts": 0, "maxAttempts": 3, "status": "unanswered" },
+  { "id": "fill5",  "type": "fill", "question": "Câu 5. Tính: (-25 + (48 - (-19))) - 22 = ?", "correctAnswer": "20",  "attempts": 0, "maxAttempts": 3, "status": "unanswered" },
+  { "id": "fill6",  "type": "fill", "question": "Câu 6. Tính: ((-14 - 23) + 37) - (-9) = ?", "correctAnswer": "9",   "attempts": 0, "maxAttempts": 3, "status": "unanswered" },
+  { "id": "fill7",  "type": "fill", "question": "Câu 7. Tính: ((-61 + 42) - (-19)) + 25 = ?", "correctAnswer": "25",  "attempts": 0, "maxAttempts": 3, "status": "unanswered" },
+  { "id": "fill8",  "type": "fill", "question": "Câu 8. Tính: (-37 + (24 - (-15))) - 18 = ?", "correctAnswer": "-16", "attempts": 0, "maxAttempts": 3, "status": "unanswered" },
+  { "id": "fill9",  "type": "fill", "question": "Câu 9. Tính: ((63 - 29) + (-47)) - 11 = ?", "correctAnswer": "-24", "attempts": 0, "maxAttempts": 3, "status": "unanswered" },
+  { "id": "fill10", "type": "fill", "question": "Câu 10. Tính: (-15 + ((-28) - (-12))) + 33 = ?", "correctAnswer": "2",   "attempts": 0, "maxAttempts": 3, "status": "unanswered" },
+  { "id": "fill11", "type": "fill", "question": "Câu 11. Tính: ((45 - 18) + (-36)) - (-27) = ?", "correctAnswer": "18",  "attempts": 0, "maxAttempts": 3, "status": "unanswered" },
+  { "id": "fill12", "type": "fill", "question": "Câu 12. Tính: (-(52 - 17) + 29) - (-14) = ?", "correctAnswer": "8",   "attempts": 0, "maxAttempts": 3, "status": "unanswered" },
+  { "id": "fill13", "type": "fill", "question": "Câu 13. Tính: ((-44 + 38) - 25) + 41 = ?", "correctAnswer": "10",  "attempts": 0, "maxAttempts": 3, "status": "unanswered" },
+  { "id": "fill14", "type": "fill", "question": "Câu 14. Tính: (-19 + ((63 - 27) - 21)) + 14 = ?", "correctAnswer": "10",  "attempts": 0, "maxAttempts": 3, "status": "unanswered" },
+  { "id": "fill15", "type": "fill", "question": "Câu 15. Tính: ((-33 - (-18)) + 44) - 29 = ?", "correctAnswer": "0",   "attempts": 0, "maxAttempts": 3, "status": "unanswered" },
+
+  { "id": "fill16", "type": "fill", "question": "Câu 16. Tính: ((12 × (-3)) + 18) - (-24 ÷ 6) = ?", "correctAnswer": "-14", "attempts": 0, "maxAttempts": 4, "status": "unanswered" },
+  { "id": "fill17", "type": "fill", "question": "Câu 17. Tính: (-(45 ÷ 9) + 27) - (14 × (-2)) = ?", "correctAnswer": "50",  "attempts": 0, "maxAttempts": 4, "status": "unanswered" },
+  { "id": "fill18", "type": "fill", "question": "Câu 18. Tính: ((-32 ÷ 8) - (-15)) + (6 × (-2)) = ?", "correctAnswer": "-1",  "attempts": 0, "maxAttempts": 4, "status": "unanswered" },
+  { "id": "fill19", "type": "fill", "question": "Câu 19. Tính: ((25 × (-2)) + (40 ÷ 5)) - (-18) = ?", "correctAnswer": "-24", "attempts": 0, "maxAttempts": 4, "status": "unanswered" },
+  { "id": "fill20", "type": "fill", "question": "Câu 20. Tính: (-(64 ÷ 8) - 19) + (27 × (-1)) = ?", "correctAnswer": "-54", "attempts": 0, "maxAttempts": 4, "status": "unanswered" },
+  { "id": "fill21", "type": "fill", "question": "Câu 21. Tính: ((-48 ÷ 6) + 21) - (14 × 2) = ?", "correctAnswer": "-15", "attempts": 0, "maxAttempts": 4, "status": "unanswered" },
+  { "id": "fill22", "type": "fill", "question": "Câu 22. Tính: (-(81 ÷ 9) + (-7 × 3)) + 20 = ?", "correctAnswer": "-10", "attempts": 0, "maxAttempts": 4, "status": "unanswered" },
+  { "id": "fill23", "type": "fill", "question": "Câu 23. Tính: ((14 × (-4)) + 33) - (56 ÷ -7) = ?", "correctAnswer": "-15", "attempts": 0, "maxAttempts": 4, "status": "unanswered" },
+  { "id": "fill24", "type": "fill", "question": "Câu 24. Tính: ((-25 ÷ 5) - 12) + (9 × 3) = ?", "correctAnswer": "10",  "attempts": 0, "maxAttempts": 4, "status": "unanswered" },
+  { "id": "fill25", "type": "fill", "question": "Câu 25. Tính: (-(96 ÷ 12) + (18 × (-2))) - 7 = ?", "correctAnswer": "-51", "attempts": 0, "maxAttempts": 4, "status": "unanswered" },
+  { "id": "fill26", "type": "fill", "question": "Câu 26. Tính: ((-72 ÷ 9) - 25) + (14 × 3) = ?", "correctAnswer": "9",   "attempts": 0, "maxAttempts": 4, "status": "unanswered" },
+  { "id": "fill27", "type": "fill", "question": "Câu 27. Tính: ((45 ÷ -5) + 33) - (12 × 2) = ?", "correctAnswer": "0",   "attempts": 0, "maxAttempts": 4, "status": "unanswered" },
+  { "id": "fill28", "type": "fill", "question": "Câu 28. Tính: (-(56 ÷ 7) - 24) + (18 × 2) = ?", "correctAnswer": "4",   "attempts": 0, "maxAttempts": 4, "status": "unanswered" },
+  { "id": "fill29", "type": "fill", "question": "Câu 29. Tính: ((36 ÷ 6) - 11) - (14 × (-2)) = ?", "correctAnswer": "23",  "attempts": 0, "maxAttempts": 4, "status": "unanswered" },
+  { "id": "fill30", "type": "fill", "question": "Câu 30. Tính: ((-42 ÷ 7) + (18 × (-1))) - 13 = ?", "correctAnswer": "-37", "attempts": 0, "maxAttempts": 4, "status": "unanswered" },
+  { "id": "fill31", "type": "fill", "question": "Câu 31. Tính: ((64 ÷ -8) - 15) + (7 × 4) = ?", "correctAnswer": "5",   "attempts": 0, "maxAttempts": 4, "status": "unanswered" },
+  { "id": "fill32", "type": "fill", "question": "Câu 32. Tính: (-(72 ÷ 6) + 45) - (5 × (-3)) = ?", "correctAnswer": "48",  "attempts": 0, "maxAttempts": 4, "status": "unanswered" },
+  { "id": "fill33", "type": "fill", "question": "Câu 33. Tính: ((90 ÷ -9) + (12 × (-2))) + 7 = ?", "correctAnswer": "-27", "attempts": 0, "maxAttempts": 4, "status": "unanswered" },
+  { "id": "fill34", "type": "fill", "question": "Câu 34. Tính: ((-120 ÷ 12) - 16) + (25 × (-1)) = ?", "correctAnswer": "-51", "attempts": 0, "maxAttempts": 4, "status": "unanswered" },
+  { "id": "fill35", "type": "fill", "question": "Câu 35. Tính: (-(60 ÷ -5) + 19) - (4 × 6) = ?", "correctAnswer": "7",   "attempts": 0, "maxAttempts": 4, "status": "unanswered" },
+  { "id": "fill36", "type": "fill", "question": "Câu 36. Tính: ((144 ÷ 12) - 18) + (7 × (-3)) = ?", "correctAnswer": "-27", "attempts": 0, "maxAttempts": 4, "status": "unanswered" },
+  { "id": "fill37", "type": "fill", "question": "Câu 37. Tính: ((-84 ÷ 7) + 13) - (9 × (-2)) = ?", "correctAnswer": "19",  "attempts": 0, "maxAttempts": 4, "status": "unanswered" },
+  { "id": "fill38", "type": "fill", "question": "Câu 38. Tính: (-(96 ÷ -8) - 21) + (11 × 3) = ?", "correctAnswer": "24",  "attempts": 0, "maxAttempts": 4, "status": "unanswered" },
+  { "id": "fill39", "type": "fill", "question": "Câu 39. Tính: ((100 ÷ 10) - 9) - (14 × (-1)) = ?", "correctAnswer": "15",  "attempts": 0, "maxAttempts": 4, "status": "unanswered" },
+  { "id": "fill40", "type": "fill", "question": "Câu 40. Tính: ((-132 ÷ 11) + (12 × 2)) - 17 = ?", "correctAnswer": "-5",  "attempts": 0, "maxAttempts": 4, "status": "unanswered" }
+]
+
+
+  }

@@ -3,7 +3,6 @@
     "topic": "PHÉP CỘNG VÀ TRỪ HAI SỐ NGUYÊN",
     "questions": 
   [
-  [
   { "id": "fill1", "type": "fill", "question": "Câu 1. Tính: 37 + (-24) = ?", "correctAnswer": "13", "attempts": 0, "maxAttempts": 1000, "status": "unanswered" },
   { "id": "fill2", "type": "fill", "question": "Câu 2. Tính: -56 + 41 = ?", "correctAnswer": "-15", "attempts": 0, "maxAttempts": 1000, "status": "unanswered" },
   { "id": "fill3", "type": "fill", "question": "Câu 3. Tính: 82 - (-17) = ?", "correctAnswer": "99", "attempts": 0, "maxAttempts": 1000, "status": "unanswered" },
@@ -28,7 +27,7 @@
   { "id": "fill21", "type": "fill", "question": "Câu 21. Tính: (-58 + 27) - (-19) = ?", "correctAnswer": "-12", "attempts": 0, "maxAttempts": 1000, "status": "unanswered" },
   { "id": "fill22", "type": "fill", "question": "Câu 22. Tính: -((44 - 19) + (-12)) = ?", "correctAnswer": "-13", "attempts": 0, "maxAttempts": 1000, "status": "unanswered" },
   { "id": "fill23", "type": "fill", "question": "Câu 23. Tính: (38 + (-26)) - 41 = ?", "correctAnswer": "-29", "attempts": 0, "maxAttempts": 1000, "status": "unanswered" },
-  { "id": "fill24", "type": "fill", "question": "Câu 24. Tính: -((-63) - (-21)) + 18 = ?", "correctAnswer": "60", "attempts": 0, "maxAttempts": 1000, "status": "unanswered" },
+  { "id": "fill24", "type": "fill", "question": "Câu 24. Tính: -((-63) - (-21)) + 18 = ?", "correctAnswer": "-24", "attempts": 0, "maxAttempts": 1000, "status": "unanswered" },
   { "id": "fill25", "type": "fill", "question": "Câu 25. Tính: (52 - 37) + (-28) = ?", "correctAnswer": "-13", "attempts": 0, "maxAttempts": 1000, "status": "unanswered" },
   { "id": "fill26", "type": "fill", "question": "Câu 26. Tính: (-74 + 45) - (-31) = ?", "correctAnswer": "2", "attempts": 0, "maxAttempts": 1000, "status": "unanswered" },
   { "id": "fill27", "type": "fill", "question": "Câu 27. Tính: -((61 - 33) - 14) = ?", "correctAnswer": "-14", "attempts": 0, "maxAttempts": 1000, "status": "unanswered" },
@@ -58,5 +57,4 @@
   { "id": "fill50", "type": "fill", "question": "Câu 50. Tính: -((25 - 13) + ((-19) - 8)) = ?", "correctAnswer": "15", "attempts": 0, "maxAttempts": 1000, "status": "unanswered" }
 ]
 
-]
   }
