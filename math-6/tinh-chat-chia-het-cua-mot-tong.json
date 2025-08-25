@@ -1,6 +1,7 @@
 {
     "subject": "Toán 6",
-    "topic": "TÍNH CHẤT CHIA HẾT CỦA MỘT TỔNG",
+    "topic": "Tính chất chia hết của một tổng",
+    "description": "Luyện tập tính chất chia hết của một tổng.",
     "questions":[
       {
         "id": "mc1",

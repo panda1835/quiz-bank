@@ -1,6 +1,7 @@
 {
     "subject": "Toán 6",
-    "topic": "SỐ NGUYÊN TỐ",
+    "topic": "Số nguyên tố",
+    "description": "Luyện tập số nguyên tố và phân tích các số ra thừa số nguyên tố",
     "questions":[
     {
       "id": "mc1",

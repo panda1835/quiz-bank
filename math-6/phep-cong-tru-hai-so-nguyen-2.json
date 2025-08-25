@@ -1,6 +1,7 @@
 {
     "subject": "Toán 6",
-    "topic": "PHÉP CỘNG VÀ TRỪ HAI SỐ NGUYÊN",
+    "topic": "Phép cộng và trừ số nguyên (2)",
+    "description": "Phép cộng và trừ 2, 3 số nguyên.",
     "questions": [
   { "id": "fill21", "type": "fill", "question": "Câu 21. Tính: 46 + (-28) = ?", "correctAnswer": "18", "attempts": 0, "maxAttempts": 2, "status": "unanswered" },
   { "id": "fill22", "type": "fill", "question": "Câu 22. Tính: -63 + 29 = ?", "correctAnswer": "-34", "attempts": 0, "maxAttempts": 2, "status": "unanswered" },

@@ -1,6 +1,7 @@
 {
     "subject": "Toán 6",
-    "topic": "DẤU HIỆU CHIA HẾT CHO 2, 3, 5, 9",
+    "topic": "Dấu hiệu chia hết cho 2, 3, 5, 9",
+    "description": "40 câu cơ bản và nâng cao về dấu hiệu chia hết cho 2, 3, 5, 9.",
     "questions":[
       {
         "id": "mc1",

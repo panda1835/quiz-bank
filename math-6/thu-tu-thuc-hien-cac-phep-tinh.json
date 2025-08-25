@@ -1,6 +1,7 @@
 {
     "subject": "Toán 6",
-    "topic": "THỨ TỰ THỰC HIỆN CÁC PHÉP TÍNH",
+    "topic": "Thứ tự thực hiện các phép tính",
+    "description": "Luyện tập thứ tự thực hiện các phép tính.",
     "questions": [
       {
         "id": "mc1",

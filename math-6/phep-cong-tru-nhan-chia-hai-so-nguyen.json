@@ -1,6 +1,7 @@
 {
     "subject": "Toán 6",
-    "topic": "PHÉP CỘNG VÀ TRỪ HAI SỐ NGUYÊN",
+    "topic": "Phép tính trên số nguyên",
+    "description": "Phép cộng, trừ, nhân, chia các số nguyên có ngoặc",
     "questions": 
   [
   { "id": "fill1",  "type": "fill", "question": "Câu 1. Tính: ((25 - (-13)) + (-7)) - 18 = ?", "correctAnswer": "13",  "attempts": 0, "maxAttempts": 3, "status": "unanswered" },

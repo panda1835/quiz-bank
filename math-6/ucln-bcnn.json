@@ -1,6 +1,7 @@
 {
     "subject": "Toán 6",
     "topic": "ƯCLN - BCNN",
+    "description": "Luyện tập ƯCLN và BCNN.",
     "questions":[
     {
       "id": "mc1",

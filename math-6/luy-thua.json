@@ -1,6 +1,7 @@
 {
     "subject": "Toán 6",
-    "topic": "TẬP HỢP - PHẦN TỬ CỦA TẬP HỢP",
+    "topic": "Luỹ thừa",
+    "description": "40 câu hỏi cơ bản và nâng cao về lũy thừa.",
     "questions": [
         {
           "id": "mc1",

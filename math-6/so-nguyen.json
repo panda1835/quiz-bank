@@ -1,6 +1,7 @@
 {
     "subject": "Toán 6",
-    "topic": "CÁC PHÉP TÍNH TRÊN SỐ NGUYÊN",
+    "topic": "Luyện tập chung về số nguyên",
+    "description": "Luyện tập các phép toán với số nguyên.",
     "questions": [
     {
       "id": "mc1",
