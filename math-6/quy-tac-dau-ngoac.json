@@ -1,0 +1,407 @@
+{
+    "subject": "Toán 6",
+    "topic": "Quy tắc dấu ngoặc",
+    "description": "Luyện tập bỏ dấu ngoặc (không tính giá trị biểu thức).",
+    "questions":[
+    
+  {
+    "id": "mc1",
+    "type": "multiple_choice",
+    "question": "Câu 1. Hãy phá ngoặc biểu thức: 2 + (3 + 4).",
+    "options": [
+      "A. 2 + (7)",
+      "B. (2 + 3) + 4",
+      "C. 2 + 7",
+      "D. 2 + 3 + 4",
+      "E. 9",
+      "F. 2 . (3 + 4)"
+    ],
+    "correctAnswer": "D",
+    "userSelected": null,
+    "attempts": 0,
+    "maxAttempts": 2,
+    "status": "unanswered",
+    "hint": "Phá ngoặc cộng thì bỏ ngoặc.",
+    "explanation": "2 + (3 + 4) = 2 + 3 + 4."
+  },
+  {
+    "id": "mc2",
+    "type": "multiple_choice",
+    "question": "Câu 2. Hãy phá ngoặc biểu thức: 5 - (2 + 3).",
+    "options": [
+      "A. 5 + 2 + 3",
+      "B. 5 - (2 - 3)",
+      "C. (5 - 5)",
+      "D. 5 - 2 - 3",
+      "E. 5 - 2 + 3",
+      "F. (5 - 2) - 3"
+    ],
+    "correctAnswer": "D",
+    "userSelected": null,
+    "attempts": 0,
+    "maxAttempts": 2,
+    "status": "unanswered",
+    "hint": "Có dấu trừ trước ngoặc thì đổi dấu toàn bộ số hạng trong ngoặc.",
+    "explanation": "5 - (2 + 3) = 5 - 2 - 3."
+  },
+  {
+    "id": "mc3",
+    "type": "multiple_choice",
+    "question": "Câu 3. Hãy phá ngoặc biểu thức: (6 - 4) + (2 + 5).",
+    "options": [
+      "A. (6 - 4) + 7",
+      "B. 6 - (4 + 2) + 5",
+      "C. 6 - 4 + 2 + 5",
+      "D. (6 - 4 + 2) + 5",
+      "E. 6 + 2 - 4 + 5",
+      "F. 6 - 4 - 2 + 5"
+    ],
+    "correctAnswer": "C",
+    "userSelected": null,
+    "attempts": 0,
+    "maxAttempts": 2,
+    "status": "unanswered",
+    "hint": "Các ngoặc chỉ có cộng, trừ → viết ra với đúng dấu.",
+    "explanation": "(6 - 4) + (2 + 5) = 6 - 4 + 2 + 5."
+  },
+  {
+    "id": "mc4",
+    "type": "multiple_choice",
+    "question": "Câu 4. Hãy phá ngoặc biểu thức: 10 - (3 - (2 + 4)).",
+    "options": [
+      "A. 10 - 3 + (2 + 4)",
+      "B. 10 - (3 - 6)",
+      "C. 10 - 3 + 2 + 4",
+      "D. (10 - 3) - 2 - 4",
+      "E. 10 - 3 - 2 - 4",
+      "F. 10 - 3 - (2 + 4)"
+    ],
+    "correctAnswer": "C",
+    "userSelected": null,
+    "attempts": 0,
+    "maxAttempts": 2,
+    "status": "unanswered",
+    "hint": "Phá từ trong ra ngoài.",
+    "explanation": "3 - (2 + 4) = 3 - 2 - 4. → 10 - (3 - 2 - 4) = 10 - 3 + 2 + 4."
+  },
+  {
+    "id": "mc5",
+    "type": "multiple_choice",
+    "question": "Câu 5. Hãy phá ngoặc biểu thức: (8 + 2) - (5 - (3 + 1)).",
+    "options": [
+      "A. 8 + (2 - 5) + 3 + 1",
+      "B. 8 + 2 - 5 - 3 - 1",
+      "C. 8 + 2 - (5 - 3 - 1)",
+      "D. (8 + 2) - 5 + 3 + 1",
+      "E. 8 + 2 - 5 + 3 + 1",
+      "F. 10 - 5 - 3 + 1"
+    ],
+    "correctAnswer": "E",
+    "userSelected": null,
+    "attempts": 0,
+    "maxAttempts": 2,
+    "status": "unanswered",
+    "hint": "Bỏ dần ngoặc từ trong ra ngoài.",
+    "explanation": "(3 + 1) = 3 + 1. → 5 - (3 + 1) = 5 - 3 - 1. → (8 + 2) - (5 - 3 - 1) = 8 + 2 - 5 + 3 + 1."
+  },
+  {
+    "id": "mc6",
+    "type": "multiple_choice",
+    "question": "Câu 6. Hãy phá ngoặc biểu thức: (7 - (4 - 2)) + (6 - 3).",
+    "options": [
+      "A. 7 - 4 - 2 + 6 - 3",
+      "B. 7 - 4 + 2 + 6 - 3",
+      "C. 7 - (4 - 2) + 6 - 3",
+      "D. 7 + 4 - 2 + 6 - 3",
+      "E. (7 - 4 - 2) + 6 - 3",
+      "F. 7 - (4 + 2) + 6 - 3"
+    ],
+    "correctAnswer": "B",
+    "userSelected": null,
+    "attempts": 0,
+    "maxAttempts": 2,
+    "status": "unanswered",
+    "hint": "Lưu ý dấu trừ trước ngoặc.",
+    "explanation": "7 - (4 - 2) = 7 - 4 + 2. → (7 - 4 + 2) + (6 - 3) = 7 - 4 + 2 + 6 - 3."
+  },
+  {
+    "id": "mc7",
+    "type": "multiple_choice",
+    "question": "Câu 7. Hãy phá ngoặc biểu thức: ((5 + 3) - (2 + 1)) - (4 - 2).",
+    "options": [
+      "A. (5 + 3 - 2) - 1 - 4 - 2",
+      "B. 5 + 3 - 2 - 1 + 4 - 2",
+      "C. 5 + 3 - 2 - 1 - 4 + 2",
+      "D. 5 + 3 - (2 + 1) - 4 + 2",
+      "E. 8 - (2 + 1) - (4 - 2)",
+      "F. 5 + 3 - 2 + 1 - 4 + 2"
+    ],
+    "correctAnswer": "C",
+    "userSelected": null,
+    "attempts": 0,
+    "maxAttempts": 2,
+    "status": "unanswered",
+    "hint": "Mỗi ngo括 trừ cần đổi dấu.",
+    "explanation": "(5 + 3) - (2 + 1) = 5 + 3 - 2 - 1. → [5 + 3 - 2 - 1] - (4 - 2) = 5 + 3 - 2 - 1 - 4 + 2."
+  },
+  {
+    "id": "mc8",
+    "type": "multiple_choice",
+    "question": "Câu 8. Hãy phá ngo括 biểu thức: 12 - (7 - (3 + 2) - (4 - 1)).",
+    "options": [
+      "A. 12 - 7 - 3 - 2 - 4 - 1",
+      "B. 12 - (7 - 5 - 3)",
+      "C. 12 - 7 + 3 + 2 + 4 - 1",
+      "D. 12 + 7 - 3 - 2 + 4 - 1",
+      "E. 12 - (7 - 5 - (4 - 1))",
+      "F. 12 - 7 + (3 + 2) + (4 - 1)"
+    ],
+    "correctAnswer": "C",
+    "userSelected": null,
+    "attempts": 0,
+    "maxAttempts": 2,
+    "status": "unanswered",
+    "hint": "Cẩn thận khi ngo括 có nhiều trừ.",
+    "explanation": "7 - (3 + 2) - (4 - 1) = 7 - 3 - 2 - 4 + 1. → 12 - (7 - 3 - 2 - 4 + 1) = 12 - 7 + 3 + 2 + 4 - 1."
+  },
+  {
+    "id": "mc9",
+    "type": "multiple_choice",
+    "question": "Câu 9. Hãy phá ngo括 biểu thức: ((10 - 6) - (3 + 2)) + (8 - (4 - 1)).",
+    "options": [
+      "A. 10 - 6 + 3 - 2 + 8 - 4 + 1",
+      "B. 10 - (6 - 3 - 2) + 8 - 4 - 1",
+      "C. 10 - 6 - 3 - 2 + 8 - 4 + 1",
+      "D. 10 - 6 - (3 + 2) + 8 - 4 + 1",
+      "E. 10 - 6 - 3 + 2 + 8 - 4 + 1",
+      "F. (10 - 6) - 3 - 2 + (8 - 4 - 1)"
+    ],
+    "correctAnswer": "C",
+    "userSelected": null,
+    "attempts": 0,
+    "maxAttempts": 2,
+    "status": "unanswered",
+    "hint": "Phá từng ngo括 rồi cộng lại.",
+    "explanation": "(10 - 6) - (3 + 2) = 10 - 6 - 3 - 2. (8 - (4 - 1)) = 8 - 4 + 1. → 10 - 6 - 3 - 2 + 8 - 4 + 1."
+  },
+  {
+    "id": "mc10",
+    "type": "multiple_choice",
+    "question": "Câu 10. Hãy phá ngo括 biểu thức: 20 - (6 - (2 + 3) - (5 - 2)).",
+    "options": [
+      "A. 20 - 6 + (2 + 3) + (5 - 2)",
+      "B. 20 - 6 - 2 - 3 - 5 + 2",
+      "C. (20 - 6) + (2 + 3) - (5 - 2)",
+      "D. 20 - (6 - (2 + 3)) - (5 - 2)",
+      "E. 20 - (6 - 5 - 3)",
+      "F. 20 - 6 + 2 + 3 + 5 - 2"
+    ],
+    "correctAnswer": "F",
+    "userSelected": null,
+    "attempts": 0,
+    "maxAttempts": 2,
+    "status": "unanswered",
+    "hint": "Trong ngo括 có nhiều lớp, xử lý từ trong ra.",
+    "explanation": "6 - (2 + 3) - (5 - 2) = 6 - 2 - 3 - 5 + 2. → 20 - (6 - 2 - 3 - 5 + 2) = 20 - 6 + 2 + 3 + 5 - 2."
+  },
+  {
+    "id": "mc11",
+    "type": "multiple_choice",
+    "question": "Câu 11. Hãy phá ngo括 biểu thức: ((15 - 7) - (6 - 2)) - (5 - (3 + 1)).",
+    "options": [
+      "A. 15 - 7 - 6 + 2 - 5 + 3 + 1",
+      "B. 15 - (7 - 6 - 2) - 5 + 3 + 1",
+      "C. 15 - 7 - 6 - 2 - 5 + 3 + 1",
+      "D. 15 - 7 - 6 + 2 - (5 - 3 - 1)",
+      "E. (15 - 7) - 6 + 2 - 5 - 3 - 1",
+      "F. 15 - 7 - (6 - 2) - 5 + (3 + 1)"
+    ],
+    "correctAnswer": "A",
+    "userSelected": null,
+    "attempts": 0,
+    "maxAttempts": 2,
+    "status": "unanswered",
+    "hint": "Cẩn thận ngo括 lồng trừ.",
+    "explanation": "(15 - 7) - (6 - 2) = 15 - 7 - 6 + 2. (5 - (3 + 1)) = 5 - 3 - 1. → [15 - 7 - 6 + 2] - (5 - 3 - 1) = 15 - 7 - 6 + 2 - 5 + 3 + 1."
+  },
+  {
+    "id": "mc12",
+    "type": "multiple_choice",
+    "question": "Câu 12. Hãy phá ngo括 biểu thức: 30 - (12 - (6 - (2 + 1))).",
+    "options": [
+      "A. 30 - 12 + 6 - (2 + 1)",
+      "B. 30 - 12 + (6 - (2 + 1))",
+      "C. 30 - (12 - (6 - 3))",
+      "D. 30 - 12 + 6 - 2 - 1",
+      "E. 30 - 12 - 6 + 2 + 1",
+      "F. 30 - (12 - 6 - 2 - 1)"
+    ],
+    "correctAnswer": "D",
+    "userSelected": null,
+    "attempts": 0,
+    "maxAttempts": 2,
+    "status": "unanswered",
+    "hint": "Phá từng lớp: trong cùng (2+1).",
+    "explanation": "(6 - (2 + 1)) = 6 - 2 - 1. → (12 - (6 - 2 - 1)) = 12 - 6 + 2 + 1. → 30 - (12 - 6 + 2 + 1) = 30 - 12 + 6 - 2 - 1."
+  },
+  {
+    "id": "mc13",
+    "type": "multiple_choice",
+    "question": "Câu 13. Hãy phá ngo括 biểu thức: ((18 - (5 + 4)) - (6 - 2)) + (10 - (7 - 3)).",
+    "options": [
+      "A. 18 - 5 + 4 - 6 + 2 + 10 - 7 + 3",
+      "B. 18 - (5 + 4) - (6 - 2) + 10 - 7 + 3",
+      "C. (18 - 5 - 4) - 6 + 2 + (10 - 7 - 3)",
+      "D. 18 - 5 - 4 - 6 + 2 + 10 - 7 + 3",
+      "E. 18 - (9 - 6) + 10 - (7 - 3)",
+      "F. 18 - 5 - 4 + 6 - 2 + 10 - 7 + 3"
+    ],
+    "correctAnswer": "D",
+    "userSelected": null,
+    "attempts": 0,
+    "maxAttempts": 2,
+    "status": "unanswered",
+    "hint": "Xử lý từng ngo括 con.",
+    "explanation": "(18 - (5 + 4)) = 18 - 5 - 4. → trừ (6 - 2) = -6 + 2. → cộng (10 - (7 - 3)) = 10 - 7 + 3. Kết hợp: 18 - 5 - 4 - 6 + 2 + 10 - 7 + 3."
+  },
+  {
+    "id": "mc14",
+    "type": "multiple_choice",
+    "question": "Câu 14. Hãy phá ngoặc biểu thức: (30 - (14 - (6 - (2 + 1)))) + (12 - (7 - (3 + 1))).",
+    "options": [
+      "A. 30 - 14 + 6 - 2 - 1 + 12 - 7 + 3 + 1",
+      "B. 30 - 14 + 6 + 2 + 1 + 12 - 7 + 3 + 1",
+      "C. 30 - 14 - 6 + 2 + 1 + 12 - 7 + 3 + 1",
+      "D. 30 - (14 - 6 + 2 + 1) + 12 - (7 - 3 - 1)",
+      "E. 30 - 14 + (6 - 2 - 1) + 12 - 7 + 3 + 1",
+      "F. 30 - 14 + 6 - 2 - 1 + 12 - 7 - 3 - 1"
+    ],
+    "correctAnswer": "A",
+    "userSelected": null,
+    "attempts": 0,
+    "maxAttempts": 2,
+    "status": "unanswered",
+    "hint": "Hai vế đều có ngoặc lồng 3 tầng – xử lý cẩn thận.",
+    "explanation": "6 − (2 + 1) = 6 − 2 − 1 ⇒ 14 − (6 − 2 − 1) = 14 − 6 + 2 + 1 ⇒ 30 − (14 − 6 + 2 + 1) = 30 − 14 + 6 − 2 − 1. Đồng thời 7 − (3 + 1) = 7 − 3 − 1 ⇒ 12 − (7 − 3 − 1) = 12 − 7 + 3 + 1. Cộng hai phần."
+  },
+  {
+    "id": "mc15",
+    "type": "multiple_choice",
+    "question": "Câu 15. Hãy phá ngoặc biểu thức: ((21 - (9 - 4)) - (8 - (3 + 2))) - (10 - (6 - 1)).",
+    "options": [
+      "A. 21 - 9 + 4 - 8 + 3 + 2 - 10 + 6 - 1",
+      "B. 21 - 9 - 4 - 8 + 3 + 2 - 10 + 6 - 1",
+      "C. 21 - 9 + 4 - (8 - 3 - 2) - 10 + 6 - 1",
+      "D. (21 - 9 + 4) - (8 - 3 - 2) - (10 - 6 + 1)",
+      "E. 21 - 9 + 4 - 8 + 3 + 2 + 10 - 6 + 1",
+      "F. 21 - 9 + 4 - 8 - 3 - 2 - 10 + 6 - 1"
+    ],
+    "correctAnswer": "A",
+    "userSelected": null,
+    "attempts": 0,
+    "maxAttempts": 2,
+    "status": "unanswered",
+    "hint": "Sau khi chuẩn hóa từng ngoặc, chú ý dấu “−” trước ngoặc cuối.",
+    "explanation": "21 − (9 − 4) = 21 − 9 + 4. Tiếp: −(8 − (3 + 2)) = −(8 − 3 − 2) = −8 + 3 + 2. Ngoài ra −(10 − (6 − 1)) = −(10 − 6 + 1) = −10 + 6 − 1. Cộng lại: 21 − 9 + 4 − 8 + 3 + 2 − 10 + 6 − 1."
+  },
+  {
+    "id": "mc16",
+    "type": "multiple_choice",
+    "question": "Câu 16. Hãy phá ngoặc biểu thức: (28 - (13 - (7 - (3 + 1)))) - ((11 - 5) - (4 - 2)).",
+    "options": [
+      "A. 28 - 13 + 7 - 3 - 1 - 11 + 5 + 4 - 2",
+      "B. 28 - 13 + 7 - 3 - 1 + 11 - 5 - 4 + 2",
+      "C. 28 - (13 - 7 + 3 + 1) - 11 + 5 + 4 - 2",
+      "D. 28 - 13 + (7 - 3 - 1) - 11 + 5 + 4 - 2",
+      "E. 28 - 13 + 7 - 3 + 1 - 11 + 5 + 4 - 2",
+      "F. 28 - 13 + 7 - 3 - 1 - (11 - 5 - 4 + 2)"
+    ],
+    "correctAnswer": "A",
+    "userSelected": null,
+    "attempts": 0,
+    "maxAttempts": 2,
+    "status": "unanswered",
+    "hint": "Vế phải là dạng (A − B) với A=(11−5), B=(4−2).",
+    "explanation": "7 − (3 + 1) = 7 − 3 − 1 ⇒ 13 − (7 − 3 − 1) = 13 − 7 + 3 + 1 ⇒ 28 − (13 − 7 + 3 + 1) = 28 − 13 + 7 − 3 − 1. Còn (11 − 5) − (4 − 2) = 11 − 5 − 4 + 2, trừ cả ngoặc: −11 + 5 + 4 − 2. Tổng: 28 − 13 + 7 − 3 − 1 − 11 + 5 + 4 − 2."
+  },
+  {
+    "id": "mc17",
+    "type": "multiple_choice",
+    "question": "Câu 17. Hãy phá ngoặc biểu thức: ((26 - (12 - (5 + 3))) - (9 - (4 - 1))) + (13 - (6 - (2 + 2))).",
+    "options": [
+      "A. 26 - 12 + 5 + 3 - 9 + 4 - 1 + 13 - 6 + 2 + 2",
+      "B. 26 - 12 + 5 + 3 - 9 - 4 + 1 + 13 - 6 + 2 + 2",
+      "C. 26 - (12 - 5 - 3) - 9 + 4 - 1 + 13 - (6 - 2 - 2)",
+      "D. (26 - 12 + 5 + 3) - (9 - 4 + 1) + (13 - 6 + 2 + 2)",
+      "E. 26 + 12 - 5 - 3 - 9 + 4 - 1 + 13 - 6 + 2 + 2",
+      "F. 26 - 12 + 5 + 3 - 9 + 4 - 1 + 13 - 6 - 2 - 2"
+    ],
+    "correctAnswer": "A",
+    "userSelected": null,
+    "attempts": 0,
+    "maxAttempts": 2,
+    "status": "unanswered",
+    "hint": "Ba cụm cộng/trừ, hãy chuẩn hóa từng cụm rồi cộng.",
+    "explanation": "26 − (12 − (5 + 3)) = 26 − (12 − 5 − 3) = 26 − 12 + 5 + 3. Trừ (9 − (4 − 1)) = 9 − 4 + 1 ⇒ −9 + 4 − 1. Còn 13 − (6 − (2 + 2)) = 13 − (6 − 2 − 2) = 13 − 6 + 2 + 2. Ghép: 26 − 12 + 5 + 3 − 9 + 4 − 1 + 13 − 6 + 2 + 2."
+  },
+  {
+    "id": "mc18",
+    "type": "multiple_choice",
+    "question": "Câu 18. Hãy phá ngoặc biểu thức: 32 - (15 - (7 - (4 - 2)) - (6 - (3 + 1))).",
+    "options": [
+      "A. 32 - 15 + 7 - 4 + 2 + 6 - 3 - 1",
+      "B. 32 - 15 - 7 + 4 - 2 + 6 - 3 - 1",
+      "C. 32 - (15 - 7 + 4 - 2 - 6 + 3 + 1)",
+      "D. 32 - 15 + 7 - 4 + 2 - 6 + 3 + 1",
+      "E. 32 - 15 + (7 - 4 + 2) + (6 - 3 - 1)",
+      "F. 32 + 15 - 7 - 4 + 2 + 6 - 3 - 1"
+    ],
+    "correctAnswer": "A",
+    "userSelected": null,
+    "attempts": 0,
+    "maxAttempts": 2,
+    "status": "unanswered",
+    "hint": "Cụm trong: 7 − (4 − 2) và 6 − (3 + 1).",
+    "explanation": "7 − (4 − 2) = 7 − 4 + 2; 6 − (3 + 1) = 6 − 3 − 1. Vậy 15 − (7 − 4 + 2) − (6 − 3 − 1) = 15 − 7 + 4 − 2 − 6 + 3 + 1. Do đó 32 − (15 − 7 + 4 − 2 − 6 + 3 + 1) = 32 − 15 + 7 − 4 + 2 + 6 − 3 − 1."
+  },
+  {
+    "id": "mc19",
+    "type": "multiple_choice",
+    "question": "Câu 19. Hãy phá ngo括 biểu thức: ((29 - (14 - (6 - 2))) - (12 - (5 + 3))) - (11 - (7 - (2 + 1))).",
+    "options": [
+      "A. 29 - 14 + 6 - 2 - 12 + 5 + 3 - 11 + 7 - 2 - 1",
+      "B. 29 - 14 + 6 - 2 - 12 - 5 - 3 - 11 + 7 - 2 - 1",
+      "C. 29 - (14 - 6 + 2) - 12 + 5 + 3 - 11 + 7 - 2 - 1",
+      "D. 29 - 14 + 6 - 2 - (12 - 5 - 3) - 11 + 7 - 2 - 1",
+      "E. 29 - 14 + 6 + 2 - 12 + 5 + 3 - 11 + 7 - 2 - 1",
+      "F. 29 - 14 + 6 - 2 - 12 + 5 + 3 - 11 + 7 + 2 + 1"
+    ],
+    "correctAnswer": "A",
+    "userSelected": null,
+    "attempts": 0,
+    "maxAttempts": 2,
+    "status": "unanswered",
+    "hint": "Ba cụm trừ ngoặc liên tiếp – rất dễ sai dấu.",
+    "explanation": "14 − (6 − 2) = 14 − 6 + 2 ⇒ 29 − (14 − 6 + 2) = 29 − 14 + 6 − 2. Tiếp: −(12 − (5 + 3)) = −(12 − 5 − 3) = −12 + 5 + 3. Cuối: −(11 − (7 − (2 + 1))) = −(11 − (7 − 2 − 1)) = −(11 − 7 + 2 + 1) = −11 + 7 − 2 − 1. Cộng tất cả: 29 − 14 + 6 − 2 − 12 + 5 + 3 − 11 + 7 − 2 − 1."
+  },
+  {
+    "id": "mc20",
+    "type": "multiple_choice",
+    "question": "Câu 20. Hãy phá ngo括 (khó): (35 - (16 - (7 - (4 - 1)))) - (18 - (9 - (5 - 2))) + (14 - (8 - (3 + 1))).",
+    "options": [
+      "A. 35 - 16 + 7 - 4 + 1 - 18 + 9 - 5 + 2 + 14 - 8 + 3 + 1",
+      "B. 35 - 16 + 7 - 4 - 1 - 18 + 9 - 5 + 2 + 14 - 8 + 3 + 1",
+      "C. 35 - 16 + 7 + 4 - 1 - 18 + 9 - 5 + 2 + 14 - 8 + 3 + 1",
+      "D. 35 - (16 - 7 + 4 - 1) - 18 + (9 - 5 + 2) + 14 - (8 - 3 - 1)",
+      "E. 35 - 16 + 7 - 4 + 1 + 18 - 9 + 5 - 2 + 14 - 8 + 3 + 1",
+      "F. 35 - 16 + 7 - 4 + 1 - 18 + 9 - 5 - 2 + 14 - 8 + 3 + 1"
+    ],
+    "correctAnswer": "A",
+    "userSelected": null,
+    "attempts": 0,
+    "maxAttempts": 2,
+    "status": "unanswered",
+    "hint": "Phá 3 cụm ngoặc lồng sâu, sau cùng mới ghép tổng.",
+    "explanation": "7 − (4 − 1) = 7 − 4 + 1 ⇒ 16 − (7 − 4 + 1) = 16 − 7 + 4 − 1 ⇒ 35 − (16 − 7 + 4 − 1) = 35 − 16 + 7 − 4 + 1. Cụm giữa: 9 − (5 − 2) = 9 − 5 + 2 ⇒ 18 − (9 − 5 + 2) = 18 − 9 + 5 − 2 ⇒ trừ cả cụm: −18 + 9 − 5 + 2. Cụm cuối: 8 − (3 + 1) = 8 − 3 − 1 ⇒ 14 − (8 − 3 − 1) = 14 − 8 + 3 + 1. Cộng ba phần: 35 − 16 + 7 − 4 + 1 − 18 + 9 − 5 + 2 + 14 − 8 + 3 + 1."
+  }]
+}

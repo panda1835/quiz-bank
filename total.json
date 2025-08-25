@@ -9,20 +9,36 @@
     "math-6": {
         "name": "Toán lớp 6",
         "exercises": [
-            "dau-hieu-chia-het",
-            "luy-thua",
-            "luyen-tap-1",
-            "phep-cong-tru-hai-so-nguyen-2",
-            "phep-cong-tru-hai-so-nguyen-3",
-            "phep-cong-tru-hai-so-nguyen-4",
-            "phep-cong-tru-hai-so-nguyen",
-            "phep-cong-tru-nhan-chia-hai-so-nguyen",
-            "phep-tinh-so-nguyen-3",
-            "so-nguyen-to",
-            "so-nguyen",
-            "thu-tu-thuc-hien-cac-phep-tinh",
-            "tinh-chat-chia-het-cua-mot-tong",
-            "ucln-bcnn"
+            {
+                "chapter": "Tập hợp các số tự nhiên",
+                "exercises": [
+                    "luy-thua",
+                    "thu-tu-thuc-hien-cac-phep-tinh"
+                ]
+            },
+            {
+                "chapter": "Tính chia hết trong tập hợp các số tự nhiên",
+                "exercises": [
+                    "dau-hieu-chia-het",
+                    "tinh-chat-chia-het-cua-mot-tong",
+                    "so-nguyen-to",
+                    "ucln-bcnn",
+                    "luyen-tap-1"
+                ]
+            },
+            {
+                "chapter": "Số nguyên",
+                "exercises": [
+                    "so-nguyen",
+                    "phep-cong-tru-hai-so-nguyen",
+                    "phep-tinh-so-nguyen-3",
+                    "phep-cong-tru-hai-so-nguyen-2",
+                    "phep-cong-tru-hai-so-nguyen-3",
+                    "phep-cong-tru-hai-so-nguyen-4",
+                    "phep-cong-tru-nhan-chia-hai-so-nguyen",
+                    "quy-tac-dau-ngoac"
+                ]
+            }
         ]
     }
 }
