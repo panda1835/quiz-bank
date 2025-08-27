@@ -38,6 +38,12 @@
                     "phep-cong-tru-nhan-chia-hai-so-nguyen",
                     "quy-tac-dau-ngoac"
                 ]
+            },
+            {
+                "chapter": "Phân số",
+                "exercises": [
+                    "cac-phep-toan-phan-so"
+                ]
             }
         ]
     }
