@@ -1,0 +1,142 @@
+{
+    "subject": "Toán 6",
+    "topic": "Thứ tự thực hiện các phép tính",
+    "description": "Luyện tập thứ tự thực hiện các phép tính.",
+    "questions": [
+        {
+            "id": "findx1",
+            "type": "fill",
+            "question": "Câu 1. Tìm x: x + 7 = 15",
+            "correctAnswer": "8",
+            "attempts": 0,
+            "maxAttempts": 1000,
+            "status": "unanswered"
+        },
+        {
+            "id": "findx2",
+            "type": "fill",
+            "question": "Câu 2. Tìm x: 18 - x = 9",
+            "correctAnswer": "9",
+            "attempts": 0,
+            "maxAttempts": 1000,
+            "status": "unanswered"
+        },
+        {
+            "id": "findx3",
+            "type": "fill",
+            "question": "Câu 3. Tìm x: 4x = 28",
+            "correctAnswer": "7",
+            "attempts": 0,
+            "maxAttempts": 1000,
+            "status": "unanswered"
+        },
+        {
+            "id": "findx4",
+            "type": "fill",
+            "question": "Câu 4. Tìm x: x / 5 = 9",
+            "correctAnswer": "45",
+            "attempts": 0,
+            "maxAttempts": 1000,
+            "status": "unanswered"
+        },
+        {
+            "id": "findx5",
+            "type": "fill",
+            "question": "Câu 5. Tìm x: 3x + 6 = 18",
+            "correctAnswer": "4",
+            "attempts": 0,
+            "maxAttempts": 1000,
+            "status": "unanswered"
+        },
+        {
+            "id": "findx6",
+            "type": "fill",
+            "question": "Câu 6. Tìm x: 2(3x + 4) = 20",
+            "correctAnswer": "2",
+            "attempts": 0,
+            "maxAttempts": 1000,
+            "status": "unanswered"
+        },
+        {
+            "id": "findx7",
+            "type": "fill",
+            "question": "Câu 7. Tìm x: 2^3(2x + 5) = 56",
+            "correctAnswer": "1",
+            "attempts": 0,
+            "maxAttempts": 1000,
+            "status": "unanswered"
+        },
+        {
+            "id": "findx8",
+            "type": "fill",
+            "question": "Câu 8. Tìm x: (3(x + 4)) / 2 = 15",
+            "correctAnswer": "6",
+            "attempts": 0,
+            "maxAttempts": 1000,
+            "status": "unanswered"
+        },
+        {
+            "id": "findx9",
+            "type": "fill",
+            "question": "Câu 9. Tìm x: 5^2(x - 1) = 100",
+            "correctAnswer": "5",
+            "attempts": 0,
+            "maxAttempts": 1000,
+            "status": "unanswered"
+        },
+        {
+            "id": "findx10",
+            "type": "fill",
+            "question": "Câu 10. Tìm x: 4x + 2^2(3x - 5) = 44",
+            "correctAnswer": "4",
+            "attempts": 0,
+            "maxAttempts": 1000,
+            "status": "unanswered"
+        },
+        {
+            "id": "findx11",
+            "type": "fill",
+            "question": "Câu 11. Tìm x: 3x + 9 = 0",
+            "correctAnswer": "-3",
+            "attempts": 0,
+            "maxAttempts": 1000,
+            "status": "unanswered"
+        },
+        {
+            "id": "findx12",
+            "type": "fill",
+            "question": "Câu 12. Tìm x: 2(x - 4) = -10",
+            "correctAnswer": "-1",
+            "attempts": 0,
+            "maxAttempts": 1000,
+            "status": "unanswered"
+        },
+        {
+            "id": "findx13",
+            "type": "fill",
+            "question": "Câu 13. Tìm x: (4x + 8) / 2 = -6",
+            "correctAnswer": "-5",
+            "attempts": 0,
+            "maxAttempts": 1000,
+            "status": "unanswered"
+        },
+        {
+            "id": "findx14",
+            "type": "fill",
+            "question": "Câu 14. Tìm x: 2^2(x + 3) = -4",
+            "correctAnswer": "-4",
+            "attempts": 0,
+            "maxAttempts": 1000,
+            "status": "unanswered"
+        },
+        {
+            "id": "findx15",
+            "type": "fill",
+            "question": "Câu 15. Tìm x: 5(x + 2) = -10",
+            "correctAnswer": "-4",
+            "attempts": 0,
+            "maxAttempts": 1000,
+            "status": "unanswered"
+        }
+    ]
+}
