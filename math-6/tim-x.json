@@ -1,7 +1,7 @@
 {
     "subject": "Toán 6",
-    "topic": "Thứ tự thực hiện các phép tính",
-    "description": "Luyện tập thứ tự thực hiện các phép tính.",
+    "topic": "Luyện tập tìm x",
+    "description": "Luyện tập tìm x trong các phương trình đơn giản.",
     "questions": [
         {
             "id": "findx1",
