@@ -44,6 +44,18 @@
             {
                 "chapter": "Phân số",
                 "exercises": [
+                    "tim-x-phan-so"
+                ]
+            },
+            {
+                "chapter": "Số thập phân",
+                "exercises": [
+                    "tim-x-so-thap-phan"
+                ]
+            },
+            {
+                "chapter": "Phân số",
+                "exercises": [
                     "cac-phep-toan-phan-so"
                 ]
             }
