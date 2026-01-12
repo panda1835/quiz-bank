@@ -1,0 +1,97 @@
+{
+    "subject": "Toán 6",
+    "topic": "Luyện tập tìm x (số thập phân)",
+    "description": "Luyện tập tìm x trong các phương trình đơn giản, trong đó x và kết quả đều là số thập phân. Ba câu cuối có mức độ khó hơn.",
+    "questions": [
+        {
+            "id": "findx1",
+            "type": "fill",
+            "question": "x + 1.5 = 3.8",
+            "correctAnswer": "2.3",
+            "attempts": 0,
+            "maxAttempts": 1000,
+            "status": "unanswered"
+        },
+        {
+            "id": "findx2",
+            "type": "fill",
+            "question": "x - 2.4 = 1.6",
+            "correctAnswer": "4.0",
+            "attempts": 0,
+            "maxAttempts": 1000,
+            "status": "unanswered"
+        },
+        {
+            "id": "findx3",
+            "type": "fill",
+            "question": "3x = 2.7",
+            "correctAnswer": "0.9",
+            "attempts": 0,
+            "maxAttempts": 1000,
+            "status": "unanswered"
+        },
+        {
+            "id": "findx4",
+            "type": "fill",
+            "question": "x / 4 = 0.75",
+            "correctAnswer": "3.0",
+            "attempts": 0,
+            "maxAttempts": 1000,
+            "status": "unanswered"
+        },
+        {
+            "id": "findx5",
+            "type": "fill",
+            "question": "2x + 0.6 = 2.2",
+            "correctAnswer": "0.8",
+            "attempts": 0,
+            "maxAttempts": 1000,
+            "status": "unanswered"
+        },
+        {
+            "id": "findx6",
+            "type": "fill",
+            "question": "5(x - 0.4) = 3.0",
+            "correctAnswer": "1.0",
+            "attempts": 0,
+            "maxAttempts": 1000,
+            "status": "unanswered"
+        },
+        {
+            "id": "findx7",
+            "type": "fill",
+            "question": "(x + 1.2) / 3 = 1.1",
+            "correctAnswer": "2.1",
+            "attempts": 0,
+            "maxAttempts": 1000,
+            "status": "unanswered"
+        },
+        {
+            "id": "findx8",
+            "type": "fill",
+            "question": "4x - 1.5 = 2.9",
+            "correctAnswer": "1.1",
+            "attempts": 0,
+            "maxAttempts": 1000,
+            "status": "unanswered"
+        },
+        {
+            "id": "findx9",
+            "type": "fill",
+            "question": "1.5x + 0.75 = 3.45",
+            "correctAnswer": "1.8",
+            "attempts": 0,
+            "maxAttempts": 1000,
+            "status": "unanswered"
+        },
+        {
+            "id": "findx10",
+            "type": "fill",
+            "question": "2(x - 0.35) + 0.4 = 2.1",
+            "correctAnswer": "1.2",
+            "attempts": 0,
+            "maxAttempts": 1000,
+            "status": "unanswered"
+        }
+    ]
+}
