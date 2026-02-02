@@ -1,0 +1,97 @@
+{
+    "subject": "Toán 6",
+    "topic": "Luyện tập tìm x (số thập phân) 2",
+    "description": "Luyện tập tìm x trong các phương trình đơn giản, trong đó x và kết quả đều là số thập phân. Ba câu cuối có mức độ khó hơn.",
+    "questions": [
+        {
+            "id": "findx11",
+            "type": "fill",
+            "question": "x + 2.35 = 4.8",
+            "correctAnswer": "2.45",
+            "attempts": 0,
+            "maxAttempts": 1000,
+            "status": "unanswered"
+        },
+        {
+            "id": "findx12",
+            "type": "fill",
+            "question": "x - 1.75 = 2.05",
+            "correctAnswer": "3.8",
+            "attempts": 0,
+            "maxAttempts": 1000,
+            "status": "unanswered"
+        },
+        {
+            "id": "findx13",
+            "type": "fill",
+            "question": "4x = 3.6",
+            "correctAnswer": "0.9",
+            "attempts": 0,
+            "maxAttempts": 1000,
+            "status": "unanswered"
+        },
+        {
+            "id": "findx14",
+            "type": "fill",
+            "question": "x / 5 = 0.42",
+            "correctAnswer": "2.1",
+            "attempts": 0,
+            "maxAttempts": 1000,
+            "status": "unanswered"
+        },
+        {
+            "id": "findx15",
+            "type": "fill",
+            "question": "3x + 0.9 = 3.6",
+            "correctAnswer": "0.9",
+            "attempts": 0,
+            "maxAttempts": 1000,
+            "status": "unanswered"
+        },
+        {
+            "id": "findx16",
+            "type": "fill",
+            "question": "6(x - 0.25) = 3.0",
+            "correctAnswer": "0.75",
+            "attempts": 0,
+            "maxAttempts": 1000,
+            "status": "unanswered"
+        },
+        {
+            "id": "findx17",
+            "type": "fill",
+            "question": "(x + 1.5) / 2 = 1.85",
+            "correctAnswer": "2.2",
+            "attempts": 0,
+            "maxAttempts": 1000,
+            "status": "unanswered"
+        },
+        {
+            "id": "findx18",
+            "type": "fill",
+            "question": "5x - 2.4 = 1.6",
+            "correctAnswer": "0.8",
+            "attempts": 0,
+            "maxAttempts": 1000,
+            "status": "unanswered"
+        },
+        {
+            "id": "findx19",
+            "type": "fill",
+            "question": "1.25x + 0.5 = 2.0",
+            "correctAnswer": "1.2",
+            "attempts": 0,
+            "maxAttempts": 1000,
+            "status": "unanswered"
+        },
+        {
+            "id": "findx20",
+            "type": "fill",
+            "question": "2(x - 0.4) + 1.3 = 3.1",
+            "correctAnswer": "1.3",
+            "attempts": 0,
+            "maxAttempts": 1000,
+            "status": "unanswered"
+        }
+    ]
+}
