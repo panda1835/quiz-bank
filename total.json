@@ -59,6 +59,12 @@
                 "exercises": [
                     "cac-phep-toan-phan-so"
                 ]
+            },
+            {
+                "chapter": "Tỉ số phần trăm",
+                "exercises": [
+                    "toan-6-ti-so-phan-tram"
+                ]
             }
         ]
     }
