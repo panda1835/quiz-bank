@@ -1,0 +1,271 @@
+{
+  "subject": "Toán 6",
+  "topic": "Tỉ số và tỉ số phần trăm",
+  "showHintAfterAnswer": true,
+  "questions": [
+    {
+      "id": "1",
+      "type": "multiple_choice",
+      "level": "Mức 1 - Nhận biết",
+      "question": "Tỉ số của hai số 2 và 5 là:",
+      "options": ["2/5", "5/2", "2/50", "0,25"],
+      "correctAnswer": "A",
+      "maxAttempts": 1,
+      "status": "unanswered",
+      "hint": "Tỉ số của a và b là thương a : b (b khác 0)."
+    },
+    {
+      "id": "2",
+      "type": "multiple_choice",
+      "level": "Mức 1 - Nhận biết",
+      "question": "Tỉ số của hai số 2/5 và 4/3 là:",
+      "options": ["8/15", "15/8", "6/20", "3/10"],
+      "correctAnswer": "D",
+      "maxAttempts": 1,
+      "status": "unanswered",
+      "hint": "Lấy (2/5) : (4/3) = (2/5) x (3/4)."
+    },
+    {
+      "id": "3",
+      "type": "multiple_choice",
+      "level": "Mức 1 - Nhận biết",
+      "question": "Trong các tỉ số sau, tỉ số nào là phân số?",
+      "options": ["-1/2", "1,25/1,46", "3/1,5", "0/1,5"],
+      "correctAnswer": "A",
+      "maxAttempts": 1,
+      "status": "unanswered",
+      "hint": "Phân số yêu cầu cả tử và mẫu là số nguyên, mẫu khác 0."
+    },
+    {
+      "id": "4",
+      "type": "multiple_choice",
+      "level": "Mức 1 - Nhận biết",
+      "question": "Tỉ số phần trăm của hai số 4 và 5 là:",
+      "options": ["80%", "125%", "4,5%", "0,2%"],
+      "correctAnswer": "A",
+      "maxAttempts": 1,
+      "status": "unanswered",
+      "hint": "Tính 4/5 rồi đổi sang phần trăm."
+    },
+    {
+      "id": "5",
+      "type": "multiple_choice",
+      "level": "Mức 1 - Nhận biết",
+      "question": "Phân số 2/5 viết dưới dạng phần trăm là:",
+      "options": ["13/3", "2,5%", "4%", "40%"],
+      "correctAnswer": "D",
+      "maxAttempts": 1,
+      "status": "unanswered",
+      "hint": "Nhân phân số với 100%."
+    },
+    {
+      "id": "6",
+      "type": "multiple_choice",
+      "level": "Mức 1 - Nhận biết",
+      "question": "Muốn tìm m% của số a, ta tính:",
+      "options": ["(m/100) x a", "(m/100) : a", "(100/m) x a", "a + m/100"],
+      "correctAnswer": "A",
+      "maxAttempts": 1,
+      "status": "unanswered",
+      "hint": "m% = m/100, rồi nhân với a."
+    },
+    {
+      "id": "7",
+      "type": "multiple_choice",
+      "level": "Mức 1 - Nhận biết",
+      "question": "Muốn tìm một số biết m% của số đó là b, ta tính:",
+      "options": ["(m/100) x b", "b : (m/100)", "(100/m) : b", "b + m/100"],
+      "correctAnswer": "B",
+      "maxAttempts": 1,
+      "status": "unanswered",
+      "hint": "Nếu x x m% = b thì x = b : m%."
+    },
+    {
+      "id": "8",
+      "type": "multiple_choice",
+      "level": "Mức 1 - Nhận biết",
+      "question": "25% của 12 bằng:",
+      "options": ["2", "3", "4", "6"],
+      "correctAnswer": "B",
+      "maxAttempts": 1,
+      "status": "unanswered",
+      "hint": "25% = 1/4."
+    },
+    {
+      "id": "9",
+      "type": "multiple_choice",
+      "level": "Mức 2 - Thông hiểu",
+      "question": "Một sợi dây dài 9m, 75% sợi dây có chiều dài là:",
+      "options": ["3,25m", "6,75m", "5,41m", "6,85m"],
+      "correctAnswer": "B",
+      "maxAttempts": 1,
+      "status": "unanswered",
+      "hint": "Tính 9 x 75%."
+    },
+    {
+      "id": "10",
+      "type": "multiple_choice",
+      "level": "Mức 2 - Thông hiểu",
+      "question": "7% của 80 là:",
+      "options": ["5,6", "56", "0,56", "560"],
+      "correctAnswer": "A",
+      "maxAttempts": 1,
+      "status": "unanswered",
+      "hint": "80 x 7% = 80 x 0,07."
+    },
+    {
+      "id": "11",
+      "type": "multiple_choice",
+      "level": "Mức 2 - Thông hiểu",
+      "question": "Tỉ số phần trăm của 0,3 tạ và 50 kg là:",
+      "options": ["0,6%", "6%", "60%", "600%"],
+      "correctAnswer": "C",
+      "maxAttempts": 1,
+      "status": "unanswered",
+      "hint": "Đổi 0,3 tạ về kg trước rồi tính tỉ số phần trăm."
+    },
+    {
+      "id": "12",
+      "type": "multiple_choice",
+      "level": "Mức 2 - Thông hiểu",
+      "question": "Tỉ số của 3/4 m và 60 cm là:",
+      "options": ["1/80", "80", "5/4", "4/5"],
+      "correctAnswer": "C",
+      "maxAttempts": 1,
+      "status": "unanswered",
+      "hint": "Đổi về cùng đơn vị: 3/4 m = 75 cm."
+    },
+    {
+      "id": "13",
+      "type": "multiple_choice",
+      "level": "Mức 2 - Thông hiểu",
+      "question": "Tỉ số của 3/10 giờ và 48 phút là:",
+      "options": ["3/8", "3/480", "72/5", "73/18"],
+      "correctAnswer": "A",
+      "maxAttempts": 1,
+      "status": "unanswered",
+      "hint": "3/10 giờ = 18 phút, rồi lấy 18/48."
+    },
+    {
+      "id": "14",
+      "type": "multiple_choice",
+      "level": "Mức 2 - Thông hiểu",
+      "question": "Bạn Hùng ngủ 8 giờ mỗi ngày. Thời gian bạn Hùng thức chiếm mấy phần của ngày?",
+      "options": ["1/3", "1/8", "3/2", "2/3"],
+      "correctAnswer": "D",
+      "maxAttempts": 1,
+      "status": "unanswered",
+      "hint": "Một ngày có 24 giờ. Thời gian thức = 24 - 8."
+    },
+    {
+      "id": "15",
+      "type": "multiple_choice",
+      "level": "Mức 3 - Vận dụng",
+      "question": "Lớp 6A có 30 học sinh và chiếm 25% số học sinh khối 6. Số học sinh khối 6 là:",
+      "options": ["75", "55", "120", "Kết quả khác"],
+      "correctAnswer": "C",
+      "maxAttempts": 1,
+      "status": "unanswered",
+      "hint": "Tổng số = 30 : 25%."
+    },
+    {
+      "id": "16",
+      "type": "multiple_choice",
+      "level": "Mức 3 - Vận dụng",
+      "question": "Lớp 6A có 40 học sinh, trong đó 12,5% là học sinh giỏi. Số học sinh giỏi là:",
+      "options": ["5", "6", "8", "10"],
+      "correctAnswer": "A",
+      "maxAttempts": 1,
+      "status": "unanswered",
+      "hint": "Tính 12,5% của 40."
+    },
+    {
+      "id": "17",
+      "type": "multiple_choice",
+      "level": "Mức 3 - Vận dụng",
+      "question": "Cho 75% của x bằng 54. Giá trị của x là:",
+      "options": ["72", "7,2", "162", "0,72"],
+      "correctAnswer": "A",
+      "maxAttempts": 1,
+      "status": "unanswered",
+      "hint": "x = 54 : 75%."
+    },
+    {
+      "id": "18",
+      "type": "multiple_choice",
+      "level": "Mức 3 - Vận dụng",
+      "question": "Khối 6 thu được 1035kg giấy vụn, lớp 6A1 thu 105kg. Tỉ số phần trăm lớp 6A1 so với khối 6 (làm tròn 1 chữ số thập phân) là:",
+      "options": ["10,1%", "10,2%", "10,4%", "10%"],
+      "correctAnswer": "A",
+      "maxAttempts": 1,
+      "status": "unanswered",
+      "hint": "Tính 105/1035 x 100% rồi làm tròn đến 0,1."
+    },
+    {
+      "id": "19",
+      "type": "multiple_choice",
+      "level": "Mức 3 - Vận dụng",
+      "question": "Trong 50kg nước biển có 2,5kg muối. Tỉ số phần trăm muối là:",
+      "options": ["5%", "2000%", "50%", "0,5%"],
+      "correctAnswer": "A",
+      "maxAttempts": 1,
+      "status": "unanswered",
+      "hint": "Tỉ lệ muối = 2,5/50 x 100%."
+    },
+    {
+      "id": "20",
+      "type": "multiple_choice",
+      "level": "Mức 3 - Vận dụng",
+      "question": "Dưa chuột chứa 92,8% nước. Lượng nước trong 5kg dưa chuột là:",
+      "options": ["6,44kg", "4,64kg", "5,38kg", "1,9kg"],
+      "correctAnswer": "B",
+      "maxAttempts": 1,
+      "status": "unanswered",
+      "hint": "Tính 5 x 92,8%."
+    },
+    {
+      "id": "21",
+      "type": "multiple_choice",
+      "level": "Mức 3 - Vận dụng",
+      "question": "Chi đội 6A2 góp được 540.000 đồng. 20% số tiền đó bằng:",
+      "options": ["180.000 đồng", "108.000 đồng", "360.000 đồng", "810.000 đồng"],
+      "correctAnswer": "B",
+      "maxAttempts": 1,
+      "status": "unanswered",
+      "hint": "Lấy 540.000 x 20%."
+    },
+    {
+      "id": "22",
+      "type": "multiple_choice",
+      "level": "Mức 3 - Vận dụng",
+      "question": "Giá niêm yết một hộp sữa là 840.000 đồng, giảm 15%. Số tiền cần trả là:",
+      "options": ["126.000 đồng", "714.000 đồng", "725.000 đồng", "518.000 đồng"],
+      "correctAnswer": "B",
+      "maxAttempts": 1,
+      "status": "unanswered",
+      "hint": "Tiền phải trả = 840.000 - (15% của 840.000)."
+    },
+    {
+      "id": "23",
+      "type": "multiple_choice",
+      "level": "Mức 3 - Vận dụng",
+      "question": "Gửi 2.000.000 đồng, lãi suất 0,52%/tháng trong 24 tháng (lãi theo tiền gốc ban đầu). Tiền lãi nhận được là:",
+      "options": ["2.249.600 đồng", "249.600 đồng", "2.010.400 đồng", "2.124.000 đồng"],
+      "correctAnswer": "B",
+      "maxAttempts": 1,
+      "status": "unanswered",
+      "hint": "Tiền lãi = 24 x 2.000.000 x 0,52%."
+    },
+    {
+      "id": "24",
+      "type": "multiple_choice",
+      "level": "Mức 3 - Vận dụng",
+      "question": "An mua 1kg cà chua giá 25.000 đồng và 2kg khoai tây giá 18.000 đồng/kg. Thuế VAT 10% trên tổng tiền hàng. Số tiền phải trả là:",
+      "options": ["43.000 đồng", "61.000 đồng", "67.100 đồng", "60.000 đồng"],
+      "correctAnswer": "C",
+      "maxAttempts": 1,
+      "status": "unanswered",
+      "hint": "Tổng tiền hàng trước VAT là 25.000 + 2 x 18.000."
+    }
+  ]
+}
