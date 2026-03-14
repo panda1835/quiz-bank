@@ -1,6 +1,6 @@
 {
   "subject": "Toán 6",
-  "topic": "Tỉ số và tỉ số phần trăm 2",
+  "topic": "Tỉ số và tỉ số phần trăm - Bài toán tổng hợp (nhập số, dùng dấu chấm cho số thập phân)",
   "showHintAfterAnswer": true,
   "questions": [
     {
@@ -119,7 +119,7 @@
       "id": "15",
       "type": "multiple_choice",
       "level": "Dạng 2",
-      "question": "Bài 15. Đám đất hình chữ nhật có chiều dài 80m và bằng 4/3 chiều rộng. Người ta để 5/8 diện tích trồng cây; 40% diện tích còn lại đào ao cá. Tính diện tích của đám đất, của ao cá, và tỉ số phần trăm của ao cá và đám đất.",
+      "question": "Bài 15. Đám đất hình chữ nhật có chiều dài 80m và bằng 4/3 chiều rộng. Người ta để 5/8 diện tích trồng cây; 40% diện tích còn lại đào ao cá. Tính diện tích của đám đất, diện tích của ao cá, và tỉ số phần trăm của ao cá và đám đất.",
       "options": [
         "Diện tích đám đất = 4800m2; diện tích ao cá = 600m2; tỉ số phần trăm = 12.5%",
         "Diện tích đám đất = 4800m2; diện tích ao cá = 720m2; tỉ số phần trăm = 15%",
@@ -171,12 +171,12 @@
       "id": "19",
       "type": "multiple_choice",
       "level": "Dạng 2",
-      "question": "Bài 19. Lớp 6A có 40 học sinh. Số học sinh giỏi bằng 10% số học sinh cả lớp. Số học sinh khá bằng 1/2 số học sinh cả lớp. Còn lại là học sinh trung bình. Chọn kết quả đúng cho a) và b).",
+      "question": "Bài 19. Lớp 6A có 40 học sinh. Số học sinh giỏi bằng 10% số học sinh cả lớp. Số học sinh khá bằng 1/2 số học sinh cả lớp. Còn lại là học sinh trung bình. Tính số học sinh mỗi loại của lớp 6A và tỉ số phần trăm của học sinh trung bình so với học sinh cả lớp.",
       "options": [
-        "Giỏi = 4; Khá = 20; TB = 16; TB = 40%",
-        "Giỏi = 4; Khá = 16; TB = 20; TB = 50%",
-        "Giỏi = 5; Khá = 20; TB = 15; TB = 37.5%",
-        "Giỏi = 4; Khá = 20; TB = 16; TB = 16%"
+        "Giỏi = 4; Khá = 20; TB = 16; Tỉ số phần trăm = 40%",
+        "Giỏi = 4; Khá = 16; TB = 20; Tỉ số phần trăm = 50%",
+        "Giỏi = 5; Khá = 20; TB = 15; Tỉ số phần trăm = 37.5%",
+        "Giỏi = 4; Khá = 20; TB = 16; Tỉ số phần trăm = 16%"
       ],
       "correctAnswer": "A",
       "maxAttempts": 1,
