@@ -1,0 +1,197 @@
+{
+  "subject": "Toán 6",
+  "topic": "Tỉ số và tỉ số phần trăm 2",
+  "showHintAfterAnswer": true,
+  "questions": [
+    {
+      "id": "8a",
+      "type": "fill",
+      "level": "Dạng 1",
+      "question": "Bài 8a. Tìm 2/5 của 40.",
+      "correctAnswer": "16",
+      "maxAttempts": 3,
+      "status": "unanswered",
+      "hint": "Lấy 40 x 2/5."
+    },
+    {
+      "id": "8f",
+      "type": "fill",
+      "level": "Dạng 1",
+      "question": "Bài 8f. Tìm 5/6 của 48000.",
+      "correctAnswer": "40000",
+      "maxAttempts": 3,
+      "status": "unanswered",
+      "hint": "Lấy 48000 x 5/6."
+    },
+    {
+      "id": "8i",
+      "type": "fill",
+      "level": "Dạng 1",
+      "question": "Bài 8i. Tìm 20% của 75.",
+      "correctAnswer": "15",
+      "maxAttempts": 3,
+      "status": "unanswered",
+      "hint": "Lấy 75 x 20 / 100."
+    },
+    {
+      "id": "9a",
+      "type": "fill",
+      "level": "Dạng 1",
+      "question": "Bài 9a. Tìm một số biết 2/3 của nó bằng 7.2.",
+      "correctAnswer": "10.8",
+      "maxAttempts": 3,
+      "status": "unanswered",
+      "hint": "Số cần tìm bằng 7.2 : 2/3."
+    },
+    {
+      "id": "9e",
+      "type": "fill",
+      "level": "Dạng 1",
+      "question": "Bài 9e. Tìm một số biết 1.25 của nó bằng 40.5.",
+      "correctAnswer": "32.4",
+      "maxAttempts": 3,
+      "status": "unanswered",
+      "hint": "Gọi số cần tìm là x, khi đó 1.25 x x = 40.5."
+    },
+    {
+      "id": "9i",
+      "type": "fill",
+      "level": "Dạng 1",
+      "question": "Bài 9i. Tìm một số biết 0.5% của nó bằng 165.",
+      "correctAnswer": "33000",
+      "maxAttempts": 3,
+      "status": "unanswered",
+      "hint": "0.5% = 0.005, nên số cần tìm bằng 165 : 0.005."
+    },
+    {
+      "id": "11",
+      "type": "fill",
+      "level": "Dạng 2",
+      "question": "Bài 11. 50% mảnh vải dài 12.75m. Hỏi mảnh vải dài bao nhiêu mét?",
+      "correctAnswer": "25.5",
+      "maxAttempts": 3,
+      "status": "unanswered",
+      "hint": "Nếu 50% dài 12.75m thì cả mảnh vải gấp đôi."
+    },
+    {
+      "id": "12",
+      "type": "fill",
+      "level": "Dạng 2",
+      "question": "Bài 12. Có 48 quả táo. Hoa ăn 25%, sau đó Huy ăn 4/9 số còn lại. Hỏi còn lại bao nhiêu quả táo?",
+      "correctAnswer": "20",
+      "maxAttempts": 3,
+      "status": "unanswered",
+      "hint": "Tính số táo còn lại sau Hoa ăn trước, rồi tiếp tục trừ phần Huy ăn."
+    },
+    {
+      "id": "13",
+      "type": "multiple_choice",
+      "level": "Dạng 2",
+      "question": "Bài 13. 75% một mảnh vải dài 45m. Hỏi cả mảnh vải dài bao nhiêu mét? Nếu cắt đi 3/5 mảnh vải đó thì còn lại bao nhiêu mét?",
+      "options": [
+        "60m; còn lại 18m",
+        "45m; còn lại 18m",
+        "60m; còn lại 24m",
+        "75m; còn lại 30m"
+      ],
+      "correctAnswer": "C",
+      "maxAttempts": 1,
+      "status": "unanswered",
+      "hint": "Tìm cả mảnh vải bằng 45 : 75%, rồi lấy phần còn lại là 2/5 của cả mảnh."
+    },
+    {
+      "id": "14",
+      "type": "multiple_choice",
+      "level": "Dạng 2",
+      "question": "Bài 14. Lớp 6C có 48 học sinh. Số học sinh giỏi bằng 18.75% số học sinh cả lớp. Số học sinh trung bình bằng 300% số học sinh giỏi. Còn lại là học sinh khá. Tính số học sinh mỗi loại của lớp 6C và tính tỉ số phần trăm của số học sinh trung bình so với số học sinh cả lớp.",
+      "options": [
+        "Giỏi = 9; TB = 27; Khá = 12; Tỉ số phần trăm = 56.25%",
+        "Giỏi = 9; TB = 24; Khá = 15; Tỉ số phần trăm = 50%",
+        "Giỏi = 12; TB = 27; Khá = 9; Tỉ số phần trăm = 56.25%",
+        "Giỏi = 9; TB = 27; Khá = 12; Tỉ số phần trăm = 25%"
+      ],
+      "correctAnswer": "A",
+      "maxAttempts": 1,
+      "status": "unanswered",
+      "hint": "Tính số học sinh giỏi trước, rồi dùng 300% để tìm số học sinh trung bình, sau đó suy ra số học sinh khá và các tỉ lệ phần trăm."
+    },
+    {
+      "id": "15",
+      "type": "multiple_choice",
+      "level": "Dạng 2",
+      "question": "Bài 15. Đám đất hình chữ nhật có chiều dài 80m và bằng 4/3 chiều rộng. Người ta để 5/8 diện tích trồng cây; 40% diện tích còn lại đào ao cá. Tính diện tích của đám đất, của ao cá, và tỉ số phần trăm của ao cá và đám đất.",
+      "options": [
+        "Diện tích đám đất = 4800m2; diện tích ao cá = 600m2; tỉ số phần trăm = 12.5%",
+        "Diện tích đám đất = 4800m2; diện tích ao cá = 720m2; tỉ số phần trăm = 15%",
+        "Diện tích đám đất = 4200m2; diện tích ao cá = 720m2; tỉ số phần trăm = 15%",
+        "Diện tích đám đất = 4800m2; diện tích ao cá = 960m2; tỉ số phần trăm = 20%"
+      ],
+      "correctAnswer": "B",
+      "maxAttempts": 1,
+      "status": "unanswered",
+      "hint": "Tìm chiều rộng trước để có diện tích. Sau đó lấy 3/8 diện tích còn lại và tính 40% của phần đó."
+    },
+    {
+      "id": "16",
+      "type": "fill",
+      "level": "Dạng 2",
+      "question": "Bài 16. Một lít xăng giá 20000 đồng. Tăng 20%, rồi giảm 10%. Hỏi giá cuối cùng là bao nhiêu đồng?",
+      "correctAnswer": "21600",
+      "maxAttempts": 3,
+      "status": "unanswered",
+      "hint": "Tăng trước trên giá cũ, sau đó giảm trên giá mới."
+    },
+    {
+      "id": "17",
+      "type": "multiple_choice",
+      "level": "Dạng 2",
+      "question": "Bài 17. Lớp học có 45 học sinh, trong đó 20% là học sinh giỏi. Số học sinh giỏi bằng 3/7 số học sinh tiên tiến, số còn lại là học sinh trung bình. Chọn kết quả đúng.",
+      "options": [
+        "Giỏi = 9; Tiên tiến = 24; Trung bình = 12",
+        "Giỏi = 12; Tiên tiến = 28; Trung bình = 5",
+        "Giỏi = 9; Tiên tiến = 21; Trung bình = 15",
+        "Giỏi = 9; Tiên tiến = 18; Trung bình = 18"
+      ],
+      "correctAnswer": "C",
+      "maxAttempts": 1,
+      "status": "unanswered",
+      "hint": "Tính số học sinh giỏi từ 20% của 45 trước, rồi dùng tỉ lệ 3/7 để tìm số học sinh tiên tiến."
+    },
+    {
+      "id": "18",
+      "type": "fill",
+      "level": "Dạng 2",
+      "question": "Bài 18. Ba lớp 6 quyên góp sách giáo khoa. Lớp 6A quyên góp được 36 bộ sách. Số bộ sách lớp 6B bằng 8/9 của lớp 6A và cũng bằng 80% của lớp 6C. Hỏi cả ba lớp quyên góp được bao nhiêu bộ sách?",
+      "correctAnswer": "108",
+      "maxAttempts": 3,
+      "status": "unanswered",
+      "hint": "Tính số sách lớp 6B từ lớp 6A trước, rồi suy ra lớp 6C từ 80%."
+    },
+    {
+      "id": "19",
+      "type": "multiple_choice",
+      "level": "Dạng 2",
+      "question": "Bài 19. Lớp 6A có 40 học sinh. Số học sinh giỏi bằng 10% số học sinh cả lớp. Số học sinh khá bằng 1/2 số học sinh cả lớp. Còn lại là học sinh trung bình. Chọn kết quả đúng cho a) và b).",
+      "options": [
+        "Giỏi = 4; Khá = 20; TB = 16; TB = 40%",
+        "Giỏi = 4; Khá = 16; TB = 20; TB = 50%",
+        "Giỏi = 5; Khá = 20; TB = 15; TB = 37.5%",
+        "Giỏi = 4; Khá = 20; TB = 16; TB = 16%"
+      ],
+      "correctAnswer": "A",
+      "maxAttempts": 1,
+      "status": "unanswered",
+      "hint": "Tính số học sinh giỏi và khá trước, rồi lấy phần còn lại để tìm số học sinh trung bình và tỉ lệ phần trăm."
+    },
+    {
+      "id": "20",
+      "type": "fill",
+      "level": "Dạng 2",
+      "question": "Bài 20. Lớp 6A có 40 học sinh. Số học sinh khá bằng 60% cả lớp, số học sinh trung bình bằng 3/4 số học sinh còn lại. Hỏi có bao nhiêu học sinh trung bình?",
+      "correctAnswer": "12",
+      "maxAttempts": 3,
+      "status": "unanswered",
+      "hint": "Sau khi tìm số học sinh khá, phần còn lại là 40 trừ số học sinh khá."
+    }
+  ]
+}
